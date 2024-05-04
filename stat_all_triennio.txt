@@ -1,0 +1,7 @@
+all	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+any	10767.0	82.0	6.04	99.0	14.06	99.0	7.84	99.0	7.13	72.0	4.76	60.0	1.63	68.0	1.58
+prevenzione_primaria	1255.0	94.0	6.45	99.0	34.08	99.0	13.02	99.0	11.76	75.0	7.22	66.0	2.21	71.0	1.6
+prevenzione_secondaria	973.0	94.0	7.32	99.0	19.76	99.0	11.19	99.0	10.23	75.0	7.28	64.0	2.09	70.0	1.77
+prevenzione_terziaria	1579.0	93.0	4.38	99.0	7.95	99.0	7.26	99.0	6.49	77.0	4.43	63.0	1.76	72.0	1.47
+covid	210.0	96.0	6.31	100.0	37.96	100.0	20.1	100.0	17.99	74.0	10.27	70.0	2.93	70.0	1.62
+altre_malattie	337.0	93.0	5.56	99.0	21.56	99.0	9.48	99.0	8.87	66.0	5.55	54.0	2.38	61.0	1.52
