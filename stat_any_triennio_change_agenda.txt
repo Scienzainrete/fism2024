@@ -1,4 +1,0 @@
-authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
-all	10767.0	82.0	6.04	99.0	14.06	99.0	7.84	99.0	7.13	72.0	4.76	60.0	1.63	68.0	1.58
-italy	1400.0	91.0	6.15	100.0	13.46	100.0	10.57	100.0	9.44	74.0	6.81	68.0	2.08	71.0	2.09
-fism	228.0	96.0	8.42	100.0	31.03	100.0	14.47	100.0	12.67	77.0	7.93	72.0	2.39	75.0	2.35
