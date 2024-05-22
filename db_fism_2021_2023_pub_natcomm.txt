@@ -1,0 +1,1450 @@
+ID	PUBLICATION YEAR	PMID	ISSN-Electronic	ISSN-Linking	ISO-ABBREVIATION	JOURNAL-TITLE	ARTICLE-TITLE	DOI	IF 2023	ALTMETRIC	DIMENSION_Open_Access	DIMENSION_CITATIONS	DIMENSION_RECENT_CITATIONS	DIMENSION_RELATIVE_CITATION_RATIO	DIMENSION_FIELD_CITATION_RATIO	DIMENSION_Sustainable_Development_Goals	CIMA_INDEX	FISM	DBTOT	COVID	PRIMARIA	SECONDARIA	TERZIARIA	ALTRE	ITALY	COUNTRY_1	COUNTRY_2	COUNTRY_3	COUNTRY_4	COUNTRY_5	COUNTRY_6	COUNTRY_7	COUNTRY_8	COUNTRY_9	COUNTRY_10	COUNTRY_11	COUNTRY_12	COUNTRY_13	COUNTRY_14	COUNTRY_15	COUNTRY_16	COUNTRY_17	COUNTRY_18	COUNTRY_19
+1	2023	37680966	1662-4548	1662-453X	Front Neurosci	Frontiers in neuroscience	Publicly available <i>ex vivo</i> transcriptomics datasets to explore CNS physiology and neurodegeneration: state of the art and perspectives.	10.3389/fnins.2023.1211079	no_if_found	7.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+5	2023	37672178	1590-3478	1590-1874	Neurol Sci	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	Impact of COVID-19 and system recovery in delivering healthcare to people with multiple sclerosis: a population-based Study.	10.1007/s10072-023-07052-9	3.3	1.0	All OA; Hybrid	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+8	2021	34926780	2352-7110	no_issn_linking	SoftwareX	SoftwareX	pySuStaIn: a Python implementation of the Subtype and Stage Inference algorithm.	10.1016/j.softx.2021.100811	3.4	3.0	All OA; Gold	22.0	22.0	1.59	11.23	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK	USA
+12	2023	36764322	1474-4465	1474-4422	Lancet Neurol	The Lancet. Neurology	Epstein-Barr virus as a cause of multiple sclerosis: opportunities for prevention and therapy.	10.1016/s1474-4422(22)00471-9	48.0	119.0	Closed	36.0	36.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	UK	Italy
+15	2022	35359637	1664-2295	1664-2295	Front Neurol	Frontiers in neurology	Secondary Prevention in Radiologically Isolated Syndromes and Prodromal Stages of Multiple Sclerosis.	10.3389/fneur.2022.787160	3.4	55.0	All OA; Gold	11.0	11.0	2.35	7.74	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+17	2022	35693002	1664-2295	1664-2295	Front Neurol	Frontiers in neurology	Investigating Serum sHLA-G Cooperation With MRI Activity and Disease-Modifying Treatment Outcome in Relapsing-Remitting Multiple Sclerosis.	10.3389/fneur.2022.872396	3.4	1.0	All OA; Gold	1.0	1.0	0.37	0.87	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+18	2021	34127432	2352-3964	2352-3964	EBioMedicine	EBioMedicine	TCR repertoire diversity in Multiple Sclerosis: High-dimensional bioinformatics analysis of sequences from brain, cerebrospinal fluid and peripheral blood.	10.1016/j.ebiom.2021.103429	11.1	42.0	All OA; Gold	21.0	20.0	1.34	5.01	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	UK	Italy	Norway
+19	2022	36010602	2073-4409	2073-4409	Cells	Cells	SARS-CoV-2 Spike Does Not Possess Intrinsic Superantigen-like Inflammatory Activity.	10.3390/cells11162526	6.0	192.0	All OA; Gold	9.0	9.0	1.12	3.85	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+22	2021	34584243	1474-1768	1474-175X	Nat Rev Cancer	Nature reviews. Cancer	Glial and myeloid heterogeneity in the brain tumour microenvironment.	10.1038/s41568-021-00397-3	78.5	65.0	All OA; Green	98.0	96.0	5.84	28.39	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+24	2023	36874213	1662-5102	1662-5102	Front Cell Neurosci	Frontiers in cellular neuroscience	The interplay between T helper cells and brain barriers in the pathogenesis of multiple sclerosis.	10.3389/fncel.2023.1101379	5.3	3.0	All OA; Gold	8.0	8.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+25	2021	33925469	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	The Distribution of GPR17-Expressing Cells Correlates with White Matter Inflammation Status in Brain Tissues of Multiple Sclerosis Patients.	10.3390/ijms22094574	5.6	18.0	All OA; Gold	13.0	11.0	1.24	2.79	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+26	2021	33918133	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	A Case of Double Standard: Sex Differences in Multiple Sclerosis Risk Factors.	10.3390/ijms22073696	5.6	1.0	All OA; Gold	13.0	11.0	1.65	3.88	3 Good Health and Well Being	3.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+34	2023	37232279	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Sars-CoV2 infection in pregnant women with multiple sclerosis.	10.1177/13524585231176174	5.8	1.0	All OA; Green	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Turkey	Italy	USA	UK	no country
+40	2023	37047806	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Antibody Profile, Gene Expression and Serum Cytokines in At-Risk Infants before the Onset of Celiac Disease.	10.3390/ijms24076836	5.6	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+41	2022	35204724	2218-273X	2218-273X	Biomolecules	Biomolecules	Neuroinflammation Is Associated with GFAP and sTREM2 Levels in Multiple Sclerosis.	10.3390/biom12020222	5.5	0.0	All OA; Gold	23.0	23.0	4.17	19.91	no_dimension_sustainable_found	4.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+43	2022	36539400	2041-4889	no_issn_linking	Cell Death Dis	Cell death & disease	Pharmacological targeting of the mitochondrial calcium-dependent potassium channel KCa3.1 triggers cell death and reduces tumor growth and metastasis in vivo.	10.1038/s41419-022-05463-8	9.0	1.0	All OA; Gold	7.0	7.0	0.98	3.41	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy	USA
+45	2022	34378437	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Volume changes of thalamus, hippocampus and cerebellum are associated with specific CSF profile in MS.	10.1177/13524585211031786	5.8	9.0	Closed	8.0	8.0	1.43	4.08	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+51	2021	33938921	2168-6157	2168-6149	JAMA Neurol	JAMA neurology	Risk of Persistent Disability in Patients With Pediatric-Onset Multiple Sclerosis.	10.1001/jamaneurol.2021.1008	29.0	58.0	All OA; Bronze	31.0	29.0	2.9	15.82	no_dimension_sustainable_found	2.0	Y	Y	no_covid	prevenzione_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+52	2021	33607496	1879-0372	0952-7915	Curr Opin Immunol	Current opinion in immunology	Therapeutic induction of tolerogenic dendritic cells via aryl hydrocarbon receptor signaling.	10.1016/j.coi.2021.02.003	7.0	7.0	Closed	21.0	21.0	1.43	5.01	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA	Brazil
+53	2021	33408340	2042-0226	1672-7681	Cell Mol Immunol	Cellular & molecular immunology	The aryl hydrocarbon receptor and the gut-brain axis.	10.1038/s41423-020-00585-5	24.1	269.0	All OA; Hybrid	63.0	51.0	5.75	15.03	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+54	2023	37199978	1939-1544	0090-5550	Rehabil Psychol	Rehabilitation psychology	Predicting sense of coherence among caregiving partners of persons with multiple sclerosis.	10.1037/rep0000501	3.713	0.0	Closed	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	no country
+59	2021	31872372	1573-3572	1068-9583	J Clin Psychol Med Settings	Journal of clinical psychology in medical settings	The Contribution of Illness Beliefs, Coping Strategies, and Social Support to Perceived Physical Health and Fatigue in Multiple Sclerosis.	10.1007/s10880-019-09692-6	1.977	1.0	Closed	19.0	12.0	4.36	5.51	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+64	2022	35159297	2073-4409	2073-4409	Cells	Cells	Plasma Small Extracellular Vesicles with Complement Alterations in <i>GRN</i>/<i>C9orf72</i> and Sporadic Frontotemporal Lobar Degeneration.	10.3390/cells11030488	6.0	11.0	All OA; Gold	7.0	6.0	1.12	2.74	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+66	2023	37005169	1879-1166	0198-8859	Hum Immunol	Human immunology	Non-classical HLA class I molecules and their potential role in viral infections.	10.1016/j.humimm.2023.03.007	2.7	2.0	Closed	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Japan	Italy
+71	2022	35672479	1590-3478	1590-1874	Neurol Sci	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	Do patients' and referral centers' characteristics influence multiple sclerosis phenotypes? Results from the Italian multiple sclerosis and related disorders register.	10.1007/s10072-022-06169-7	3.3	1.0	All OA; Hybrid	2.0	2.0	0.37	1.41	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	no country
+72	2022	34735749	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	The effect of air pollution on COVID-19 severity in a sample of patients with multiple sclerosis.	10.1111/ene.15167	5.1	18.0	All OA; Green	7.0	7.0	0.99	2.98	11 Sustainable Cities and Communities; 3 Good Health and Well Being	3.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+79	2023	37190539	2076-3425	2076-3425	Brain Sci	Brain sciences	Effects on Corticospinal Tract Homology of Faremus Personalized Neuromodulation Relieving Fatigue in Multiple Sclerosis: A Proof-of-Concept Study.	10.3390/brainsci13040574	3.3	3.0	All OA; Gold	4.0	4.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+80	2022	35797804	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Effects of immersive virtual reality on upper limb function in subjects with multiple sclerosis: A cross-over study.	10.1016/j.msard.2022.104004	4.0	1.0	Closed	9.0	9.0	2.62	5.23	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+81	2022	36536754	1179-271X	1179-271X	Patient Relat Outcome Meas	Patient related outcome measures	A Systematic Review of Patient Engagement Experiences in Brain Disorders.	10.2147/prom.s256396	no_if_found	1.0	All OA; Gold	1.0	1.0	0.23	0.89	3 Good Health and Well Being	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Spain	Italy
+84	2022	35674074	1473-6551	1350-7540	Curr Opin Neurol	Current opinion in neurology	Promoting exogenous repair in multiple sclerosis: myelin regeneration.	10.1097/wco.0000000000001062	4.8	3.0	All OA; Hybrid	6.0	6.0	0.65	2.35	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+97	2023	37430070	1759-4766	1759-4758	Nat Rev Neurol	Nature reviews. Neurology	Implications of immunometabolism for smouldering MS pathology and therapy.	10.1038/s41582-023-00839-6	38.1	14.0	Closed	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	N	Germany
+101	2023	37783234	1095-953X	0969-9961	Neurobiol Dis	Neurobiology of disease	G protein-coupled receptor 17 is regulated by WNT pathway during oligodendrocyte precursor cell differentiation.	10.1016/j.nbd.2023.106315	6.1	0.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Poland	France	Italy
+102	2022	35662200	1673-5374	1673-5374	Neural Regen Res	Neural regeneration research	Not only myelination: the immune-inflammatory functions of oligodendrocytes.	10.4103/1673-5374.342678	no_if_found	1.0	All OA; Gold	10.0	10.0	1.09	5.81	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+103	2021	33558485	2041-4889	no_issn_linking	Cell Death Dis	Cell death & disease	The immune-inflammatory response of oligodendrocytes in a murine model of preterm white matter injury: the role of TLR3 activation.	10.1038/s41419-021-03446-9	9.0	6.0	All OA; Gold	28.0	24.0	2.52	10.23	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	Italy
+106	2022	35614969	1662-5102	1662-5102	Front Cell Neurosci	Frontiers in cellular neuroscience	Editorial: The Role of Astroglia and Oligodendroglia in CNS Development, Plasticity, and Disease - Novel Tools and Investigative Approaches.	10.3389/fncel.2022.901820	5.3	0.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	0.0	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy
+108	2021	33472915	1526-632X	0028-3878	Neurology	Neurology	Long-term Clinical Outcomes of Hematopoietic Stem Cell Transplantation in Multiple Sclerosis.	10.1212/wnl.0000000000011461	9.9	234.0	All OA; Green	41.0	35.0	3.45	27.51	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+109	2023	36543569	1526-632X	0028-3878	Neurology	Neurology	Hematopoietic Stem Cell Transplantation in People With Active Secondary Progressive Multiple Sclerosis.	10.1212/wnl.0000000000206750	9.9	457.0	All OA; Green	8.0	8.0	2.97	6.93	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+113	2022	34125626	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Altered anterior default mode network dynamics in progressive multiple sclerosis.	10.1177/13524585211018116	5.8	1.0	All OA; Green	6.0	5.0	0.9	2.24	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Switzerland	Italy	USA
+114	2022	35661470	2213-1582	2213-1582	Neuroimage Clin	NeuroImage. Clinical	Role of artificial intelligence in MS clinical practice.	10.1016/j.nicl.2022.103065	4.2	3.0	All OA; Gold	25.0	25.0	5.05	16.58	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+115	2021	34607928	1526-632X	0028-3878	Neurology	Neurology	Association of Age at Onset With Gray Matter Volume and White Matter Microstructural Abnormalities in People With Multiple Sclerosis.	10.1212/wnl.0000000000012869	9.9	26.0	Closed	7.0	6.0	0.8	3.57	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+123	2023	37625501	1095-9572	1053-8119	Neuroimage	NeuroImage	Don't plan, just do it: Cognitive and sensorimotor contributions to manual dexterity.	10.1016/j.neuroimage.2023.120348	5.7	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+129	2021	34177447	1662-4548	1662-453X	Front Neurosci	Frontiers in neuroscience	Right Inferior Parietal Lobule Activity Is Associated With Handwriting Spontaneous Tempo.	10.3389/fnins.2021.656856	no_if_found	4.0	All OA; Gold	3.0	3.0	0.34	1.12	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+130	2022	36033609	1662-4548	1662-453X	Front Neurosci	Frontiers in neuroscience	The hand motor hotspot for seed-based functional connectivity of hand motor networks at rest.	10.3389/fnins.2022.896746	no_if_found	0.0	All OA; Gold	5.0	5.0	1.7	3.13	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+135	2021	33200288	1878-7479	1878-7479	Neurotherapeutics	Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics	Targeting the RNA-Binding Protein HuR Alleviates Neuroinflammation in Experimental Autoimmune Encephalomyelitis: Potential Therapy for Multiple Sclerosis.	10.1007/s13311-020-00958-8	5.7	1.0	All OA; Hybrid	11.0	9.0	1.04	3.32	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+136	2021	34638733	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Targeting the RNA-Binding Protein HuR as Potential Thera-Peutic Approach for Neurological Disorders: Focus on Amyo-Trophic Lateral Sclerosis (ALS), Spinal Muscle Atrophy (SMA) and Multiple Sclerosis.	10.3390/ijms221910394	5.6	8.0	All OA; Gold	4.0	4.0	0.54	0.86	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	altre_malattie	Y	Italy
+139	2021	33578035	1876-4754	1876-4754	Brain Stimul	Brain stimulation	Asymmetric transcallosal conduction delay leads to finer bimanual coordination.	10.1016/j.brs.2021.02.002	7.7	4.0	All OA; Gold	20.0	18.0	2.51	12.12	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+140	2022	35336070	2076-2607	2076-2607	Microorganisms	Microorganisms	Herpesvirus Infections in KIR2DL2-Positive Multiple Sclerosis Patients: Mechanisms Triggering Autoimmunity.	10.3390/microorganisms10030494	4.5	3.0	All OA; Gold	1.0	1.0	0.27	0.43	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+145	2021	34276310	1662-5102	1662-5102	Front Cell Neurosci	Frontiers in cellular neuroscience	Altered Expression of Ion Channels in White Matter Lesions of Progressive Multiple Sclerosis: What Do We Know About Their Function?	10.3389/fncel.2021.685703	5.3	11.0	All OA; Gold	19.0	19.0	1.93	7.1	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Spain	Italy	Denmark
+147	2023	37446282	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	The Complex Relationship between Hypoxia Signaling, Mitochondrial Dysfunction and Inflammation in Calcific Aortic Valve Disease: Insights from the Molecular Mechanisms to Therapeutic Approaches.	10.3390/ijms241311105	5.6	0.0	All OA; Gold	4.0	4.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+151	2021	33669304	2073-4409	2073-4409	Cells	Cells	Nerve Growth Factor Neutralization Promotes Oligodendrogenesis by Increasing miR-219a-5p Levels.	10.3390/cells10020405	6.0	3.0	All OA; Gold	7.0	7.0	0.77	no_dimension_field_citations_found	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+158	2023	37698019	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Distinct intrathecal inflammatory signatures following relapse and anti-COVID-19 mRNA vaccination in multiple sclerosis.	10.1177/13524585231197928	5.8	1.0	Closed	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+159	2022	35627281	2073-4425	2073-4425	Genes (Basel)	Genes	Interleukin 6 SNP <i>rs1818879</i> Regulates Radiological and Inflammatory Activity in Multiple Sclerosis.	10.3390/genes13050897	3.5	1.0	All OA; Gold	4.0	4.0	0.61	2.11	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+161	2023	36709576	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	BACE1 influences clinical manifestations and central inflammation in relapsing remitting multiple sclerosis.	10.1016/j.msard.2023.104528	4.0	7.0	All OA; Hybrid	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+164	2022	35610521	1432-0428	0012-186X	Diabetologia	Diabetologia	High levels of blood circulating immune checkpoint molecules in children with new-onset type 1 diabetes are associated with the risk of developing an additional autoimmune disease.	10.1007/s00125-022-05724-3	8.2	12.0	All OA; Bronze	2.0	2.0	0.38	1.19	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Sweden	Italy
+165	2023	36764821	1520-7560	1520-7552	Diabetes Metab Res Rev	Diabetes/metabolism research and reviews	Anti-viral innate immunity: Is it where type 1 diabetes really begins?	10.1002/dmrr.3623	8.0	1.0	All OA; Hybrid	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+167	2023	36779855	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	High serum neurofilament light chain levels correlate with brain atrophy and physical disability in multiple sclerosis.	10.1111/ene.15742	5.1	1.0	All OA; Hybrid	5.0	5.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	altre_malattie	N	Switzerland	Austria
+168	2021	33589593	2041-4889	no_issn_linking	Cell Death Dis	Cell death & disease	Neuroinflammation induces synaptic scaling through IL-1β-mediated activation of the transcriptional repressor REST/NRSF.	10.1038/s41419-021-03465-6	9.0	7.0	All OA; Gold	22.0	18.0	2.46	7.89	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy
+169	2023	37156771	2041-4889	no_issn_linking	Cell Death Dis	Cell death & disease	Correction: Neuroinflammation induces synaptic scaling through IL-1β-mediated activation of the transcriptional repressor REST/NRSF.	10.1038/s41419-023-05805-0	9.0	1.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy
+175	2023	36702320	1095-953X	0969-9961	Neurobiol Dis	Neurobiology of disease	Early derangement of axonal mitochondria occurs in a mouse model of progressive but not relapsing-remitting multiple sclerosis.	10.1016/j.nbd.2023.106015	6.1	2.0	All OA; Gold	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+182	2023	36814991	1662-5137	1662-5137	Front Syst Neurosci	Frontiers in systems neuroscience	Editorial: Non-invasive brain stimulation techniques in neurological and neuropsychiatric disorders: Physiological and molecular evidence.	10.3389/fnsys.2023.1128205	3.0	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Austria
+184	2021	34481380	1950-6007	0753-3322	Biomed Pharmacother	Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie	Rebound effects of NCX3 pharmacological inhibition: A novel strategy to accelerate myelin formation in oligodendrocytes.	10.1016/j.biopha.2021.112111	7.5	1.0	All OA; Gold	3.0	2.0	0.36	1.12	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+186	2021	34948360	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	S100B Protein as a Therapeutic Target in Multiple Sclerosis: The S100B Inhibitor Arundic Acid Protects from Chronic Experimental Autoimmune Encephalomyelitis.	10.3390/ijms222413558	5.6	0.0	All OA; Gold	16.0	16.0	1.7	3.43	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+189	2023	37212993	1940-6029	1064-3745	Methods Mol Biol	Methods in molecular biology (Clifton, N.J.)	Replication Timing of Gene Loci in Different Cell Cycle Phases.	10.1007/978-1-0716-3143-0_10	no_if_found	0.0	Closed	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+192	2023	37364375	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Targeting miR-223 enhances myeloid-derived suppressor cell suppressive activities in multiple sclerosis patients.	10.1016/j.msard.2023.104839	4.0	5.0	Closed	2.0	2.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Australia	Italy	USA
+193	2022	35094961	2352-3964	2352-3964	EBioMedicine	EBioMedicine	Alterations of host-gut microbiome interactions in multiple sclerosis.	10.1016/j.ebiom.2021.103798	11.1	339.0	All OA; Gold	63.0	63.0	9.8	24.16	3 Good Health and Well Being	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Australia	Italy	USA	China
+197	2021	33093191	1468-330X	0022-3050	J Neurol Neurosurg Psychiatry	Journal of neurology, neurosurgery, and psychiatry	CSF sphingomyelin: a new biomarker of demyelination in the diagnosis and management of CIDP and GBS.	10.1136/jnnp-2020-324445	11.0	21.0	All OA; Hybrid	21.0	13.0	2.84	7.48	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+199	2021	34036250	2589-0042	2589-0042	iScience	iScience	Systems analysis of human T helper17 cell differentiation uncovers distinct time-regulated transcriptional modules.	10.1016/j.isci.2021.102492	5.8	4.0	All OA; Gold	6.0	5.0	0.3	1.43	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	Italy
+203	2021	33928562	1940-6029	1064-3745	Methods Mol Biol	Methods in molecular biology (Clifton, N.J.)	Metabolomics, Lipidomics, and Immunometabolism.	10.1007/978-1-0716-1311-5_24	no_if_found	1.0	Closed	7.0	5.0	0.47	1.39	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+213	2021	33864413	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	Instrumentally assessed gait quality is more relevant than gait endurance and velocity to explain patient-reported walking ability in early-stage multiple sclerosis.	10.1111/ene.14866	5.1	5.0	Closed	11.0	10.0	2.37	4.69	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+214	2021	35153994	1664-2295	1664-2295	Front Neurol	Frontiers in neurology	Walking With Horizontal Head Turns Is Impaired in Persons With Early-Stage Multiple Sclerosis Showing Normal Locomotion.	10.3389/fneur.2021.821640	3.4	1.0	All OA; Gold	5.0	5.0	2.72	3.38	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+224	2023	37409022	1664-2295	1664-2295	Front Neurol	Frontiers in neurology	When 'good' is not good enough: a retrospective Rasch analysis study of the Berg Balance Scale for persons with Multiple Sclerosis.	10.3389/fneur.2023.1171163	3.4	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+227	2021	33045924	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	'Posture second' strategy predicts disability progression in multiple sclerosis.	10.1177/1352458520963926	5.8	7.0	Closed	1.0	0.0	no_dimension_relative_citations_found	0.28	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+230	2022	33454397	1877-0665	1877-0657	Ann Phys Rehabil Med	Annals of physical and rehabilitation medicine	Prevalence and patterns of subclinical motor and cognitive impairments in non-disabled individuals with early multiple sclerosis: A multicenter cross-sectional study.	10.1016/j.rehab.2021.101491	4.6	4.0	All OA; Hybrid	15.0	13.0	5.04	8.65	4 Quality Education	4.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	USA
+244	2021	33510056	1673-5374	1673-5374	Neural Regen Res	Neural regeneration research	Oligodendrocyte precursor cell maturation: role of adenosine receptors.	10.4103/1673-5374.306058	no_if_found	5.0	All OA; Gold	17.0	10.0	1.81	6.1	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+245	2021	34298893	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Ion Channels as New Attractive Targets to Improve Re-Myelination Processes in the Brain.	10.3390/ijms22147277	5.6	11.0	All OA; Gold	15.0	15.0	1.12	3.21	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+249	2021	32813051	1432-1459	0340-5354	J Neurol	Journal of neurology	The emotional impact of the COVID-19 pandemic on individuals with progressive multiple sclerosis.	10.1007/s00415-020-10160-7	6.0	60.0	All OA; Bronze	54.0	28.0	8.0	19.23	3 Good Health and Well Being	4.0	Y	Y	covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark	no country
+250	2022	35531965	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	The relationship between processing speed and verbal and non-verbal new learning and memory in progressive multiple sclerosis.	10.1177/13524585221088190	5.8	2.0	All OA; Green	5.0	5.0	2.07	3.32	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark
+252	2023	37610702	1878-7479	1878-7479	Neurotherapeutics	Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics	Effectiveness of Ocrelizumab in Primary Progressive Multiple Sclerosis: a Multicenter, Retrospective, Real-world Study (OPPORTUNITY).	10.1007/s13311-023-01415-y	5.7	0.0	All OA; Hybrid	4.0	4.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	no country
+253	2022	34181077	1432-1459	0340-5354	J Neurol	Journal of neurology	PML risk is the main factor driving the choice of discontinuing natalizumab in a large multiple sclerosis population: results from an Italian multicenter retrospective study.	10.1007/s00415-021-10676-6	6.0	9.0	Closed	10.0	9.0	2.01	5.1	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+254	2022	35680693	2193-8253	2193-6536	Neurol Ther	Neurology and therapy	Symptom Interconnectivity in Multiple Sclerosis: A Narrative Review of Potential Underlying Biological Disease Processes.	10.1007/s40120-022-00368-2	no_if_found	1.0	All OA; Gold	9.0	9.0	1.95	7.79	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Switzerland	Italy	USA
+268	2023	37145229	1590-3478	1590-1874	Neurol Sci	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	Patient-reported outcome measures in drugs for neurological conditions approved by European Medicines Agency 2017-2022.	10.1007/s10072-023-06825-6	3.3	0.0	All OA; Hybrid	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+271	2021	35047017	1664-8021	1664-8021	Front Genet	Frontiers in genetics	Contribution of Rare and Low-Frequency Variants to Multiple Sclerosis Susceptibility in the Italian Continental Population.	10.3389/fgene.2021.800262	3.7	1.0	All OA; Gold	4.0	4.0	0.57	2.11	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+273	2021	33888612	1095-9203	0036-8075	Science	Science (New York, N.Y.)	Barcoded viral tracing of single-cell interactions in central nervous system inflammation.	10.1126/science.abf1230	56.9	222.0	All OA; Green	146.0	119.0	9.76	34.82	3 Good Health and Well Being	3.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	N	Germany	USA	Canada
+289	2023	37286983	1471-2202	1471-2202	BMC Neurosci	BMC neuroscience	iAstrocytes do not restrain T cell proliferation in vitro.	10.1186/s12868-023-00806-3	2.4	0.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+292	2022	34450231	1879-016X	0163-7258	Pharmacol Ther	Pharmacology & therapeutics	Lessons from S1P receptor targeting in multiple sclerosis.	10.1016/j.pharmthera.2021.107971	13.5	1.0	Closed	11.0	11.0	1.59	3.31	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+293	2023	37836771	1420-3049	1420-3049	Molecules	Molecules (Basel, Switzerland)	Synthesis and Characterization of Edaravone Analogues as Remyelinating Agents and Putative Mechanistic Probes.	10.3390/molecules28196928	4.6	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+296	2021	34183414	1091-6490	0027-8424	Proc Natl Acad Sci U S A	Proceedings of the National Academy of Sciences of the United States of America	Dysregulated copper transport in multiple sclerosis may cause demyelination via astrocytes.	10.1073/pnas.2025804118	11.1	38.0	All OA; Bronze	21.0	20.0	1.96	7.84	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	UK	Italy
+297	2021	34497102	2332-7812	2332-7812	Neurol Neuroimmunol Neuroinflamm	Neurology(R) neuroimmunology & neuroinflammation	CSF Chitinase 3-Like 2 Is Associated With Long-term Disability Progression in Patients With Progressive Multiple Sclerosis.	10.1212/nxi.0000000000001082	8.8	24.0	All OA; Gold	18.0	18.0	2.02	9.19	no_dimension_sustainable_found	1.0	Y	Y	no_covid	prevenzione_primaria	prevenzione_secondaria	no_terziaria	no_altre	N	Spain
+303	2022	36722235	0219-6352	0219-6352	J Integr Neurosci	Journal of integrative neuroscience	Dysregulation of Gene Expressions in Multiple Sclerosis: <i>TNFSF13B</i> and Other Candidate Genes.	10.31083/j.jin2201004	no_if_found	1.0	All OA; Gold	2.0	2.0	0.39	1.21	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	altre_malattie	Y	Italy
+304	2021	33387014	1432-1459	0340-5354	J Neurol	Journal of neurology	Effect of cognitive reserve on structural and functional MRI measures in healthy subjects: a multiparametric assessment.	10.1007/s00415-020-10331-6	6.0	3.0	Closed	19.0	17.0	2.56	8.09	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+306	2022	35817954	1476-5381	0007-1188	Br J Pharmacol	British journal of pharmacology	Selective block of adenosine A<sub>2A</sub> receptors prevents ischaemic-like effects induced by oxygen and glucose deprivation in rat medium spiny neurons.	10.1111/bph.15922	7.3	2.0	All OA; Hybrid	3.0	3.0	0.67	1.59	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	UK	Italy
+307	2021	33566318	1559-1182	0893-7648	Mol Neurobiol	Molecular neurobiology	Dexpramipexole Enhances K<sup>+</sup> Currents and Inhibits Cell Excitability in the Rat Hippocampus In Vitro.	10.1007/s12035-021-02300-5	5.1	0.0	All OA; Green	3.0	3.0	0.29	1.08	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+309	2022	35335254	1420-3049	1420-3049	Molecules	Molecules (Basel, Switzerland)	Therapeutic Potential of Highly Selective A<sub>3</sub> Adenosine Receptor Ligands in the Central and Peripheral Nervous System.	10.3390/molecules27061890	4.6	1.0	All OA; Gold	7.0	7.0	1.97	2.35	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+314	2021	34135730	1662-4548	1662-453X	Front Neurosci	Frontiers in neuroscience	A<sub>2</sub> <sub><i>B</i></sub> Adenosine Receptors and Sphingosine 1-Phosphate Signaling Cross-Talk in Oligodendrogliogenesis.	10.3389/fnins.2021.677988	no_if_found	3.0	All OA; Gold	3.0	3.0	0.09	1.12	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+316	2021	32924846	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	MRI correlates of clinical disability and hand-motor performance in multiple sclerosis phenotypes.	10.1177/1352458520958356	5.8	16.0	Closed	14.0	12.0	1.68	3.56	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+319	2022	35678509	1460-2156	0006-8950	Brain	Brain : a journal of neurology	Validating visual evoked potentials as a preclinical, quantitative biomarker for remyelination efficacy.	10.1093/brain/awac207	14.5	13.0	All OA; Bronze	23.0	23.0	3.57	9.02	no_dimension_sustainable_found	1.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+335	2021	33043560	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	COVID-19 pandemic and mental distress in multiple sclerosis: Implications for clinical management.	10.1111/ene.14580	5.1	4.0	All OA; Green	52.0	31.0	8.33	15.7	3 Good Health and Well Being	2.0	Y	Y	covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	USA
+350	2021	34100385	2379-3708	2379-3708	JCI Insight	JCI insight	Distinctive waves of innate immune response in the retina in experimental autoimmune encephalomyelitis.	10.1172/jci.insight.149228	8.0	3.0	All OA; Gold	15.0	13.0	1.47	3.58	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+351	2021	33184094	1468-330X	0022-3050	J Neurol Neurosurg Psychiatry	Journal of neurology, neurosurgery, and psychiatry	Systematic approach to selecting licensed drugs for repurposing in the treatment of progressive multiple sclerosis.	10.1136/jnnp-2020-324286	11.0	35.0	All OA; Bronze	19.0	15.0	1.45	6.77	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	N	Northern Ireland	UK	USA
+357	2021	34707108	2045-2322	2045-2322	Sci Rep	Scientific reports	Apparatus design and behavioural testing protocol for the evaluation of spatial working memory in mice through the spontaneous alternation T-maze.	10.1038/s41598-021-00402-7	4.6	3.0	All OA; Gold	49.0	49.0	5.16	18.31	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+358	2021	33807720	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	5-Hydroxytryptamine Modulates Maturation and Mitochondria Function of Human Oligodendrocyte Progenitor M03-13 Cells.	10.3390/ijms22052621	5.6	1.0	All OA; Gold	11.0	8.0	1.3	2.37	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+360	2021	33483719	1759-4766	1759-4758	Nat Rev Neurol	Nature reviews. Neurology	Facing the urgency of therapies for progressive MS - a Progressive MS Alliance proposal.	10.1038/s41582-020-00446-9	38.1	30.0	All OA; Green	21.0	16.0	1.19	8.95	no_dimension_sustainable_found	5.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Germany	Italy	Australia	Ireland	USA	UK	France
+361	2022	36613703	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Functional Heterodimerization between the G Protein-Coupled Receptor GPR17 and the Chemokine Receptors 2 and 4: New Evidence.	10.3390/ijms24010261	5.6	2.0	All OA; Gold	1.0	1.0	0.17	0.38	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+363	2023	36598346	2691-1299	2691-1299	Curr Protoc	Current protocols	Analysis of Antigen-Specific T and B Cells for Monitoring Immune Protection Against SARS-CoV-2.	10.1002/cpz1.636	no_if_found	2.0	Closed	5.0	5.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+369	2021	34663980	1529-2916	1529-2908	Nat Immunol	Nature immunology	Reimagining an immunological dogma.	10.1038/s41590-021-01046-5	30.5	32.0	Closed	2.0	2.0	0.16	0.48	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+370	2022	35021051	1097-4180	1074-7613	Immunity	Immunity	The folate way to T cell fate.	10.1016/j.immuni.2021.12.009	32.4	13.0	All OA; Hybrid	5.0	5.0	0.61	2.14	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+372	2021	33277181	1471-4981	1471-4906	Trends Immunol	Trends in immunology	T Cells: Warriors of SARS-CoV-2 Infection.	10.1016/j.it.2020.11.002	16.8	459.0	All OA; Bronze	153.0	97.0	11.32	31.11	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+373	2022	36351373	1097-4180	1074-7613	Immunity	Immunity	Regulatory T cells as metabolic sensors.	10.1016/j.immuni.2022.10.006	32.4	54.0	Closed	18.0	18.0	2.19	7.69	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+377	2021	33803592	2075-4426	2075-4426	J Pers Med	Journal of personalized medicine	Translational Research in the Era of Precision Medicine: Where We Are and Where We Will Go.	10.3390/jpm11030216	3.508	10.0	All OA; Gold	53.0	42.0	3.74	13.12	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+378	2022	35150168	1531-8249	0364-5134	Ann Neurol	Annals of neurology	Comparing Natural History of Early and Late Onset Pediatric Multiple Sclerosis.	10.1002/ana.26322	11.2	9.0	Closed	6.0	6.0	1.01	5.19	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy
+381	2021	33221873	1460-2156	0006-8950	Brain	Brain : a journal of neurology	In vivo gradients of thalamic damage in paediatric multiple sclerosis: a window into pathology.	10.1093/brain/awaa379	14.5	14.0	All OA; Bronze	21.0	17.0	1.76	8.91	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy
+383	2021	34389580	2044-6055	2044-6055	BMJ Open	BMJ open	Study protocol on advance care planning in multiple sclerosis (ConCure-SM): intervention construction and multicentre feasibility trial.	10.1136/bmjopen-2021-052012	2.9	14.0	All OA; Gold	5.0	5.0	0.53	2.42	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	New Zeland
+384	2023	36952509	1932-6203	1932-6203	PLoS One	PloS one	Italian cross-cultural adaptation of the Quality of Communication questionnaire and the 4-item advance care planning engagement questionnaire.	10.1371/journal.pone.0282960	3.7	6.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+385	2023	36350401	1432-1459	0340-5354	J Neurol	Journal of neurology	Resting-state functional MRI in multicenter studies on multiple sclerosis: a report on raw data quality and functional connectivity features from the Italian Neuroimaging Network Initiative.	10.1007/s00415-022-11479-z	6.0	1.0	All OA; Hybrid	3.0	3.0	no_dimension_relative_citations_found	2.11	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+391	2021	34528258	1521-4141	0014-2980	Eur J Immunol	European journal of immunology	Ex vivo microRNA and gene expression profiling of human Tr1-like cells suggests a role for miR-92a and -125a in the regulation of EOMES and IL-10R.	10.1002/eji.202149315	5.4	6.0	All OA; Hybrid	2.0	2.0	0.16	0.48	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Switzerland	Italy
+395	2023	37258492	1460-2156	0006-8950	Brain	Brain : a journal of neurology	Do we need new MRI criteria for the diagnosis of radiologically isolated syndrome?	10.1093/brain/awad185	14.5	1.0	Closed	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Spain	Italy
+396	2023	37021418	1875-6190	1570-159X	Curr Neuropharmacol	Current neuropharmacology	MiR-142-3p is a Critical Modulator of TNF-mediated Neuronal Toxicity in Multiple Sclerosis.	10.2174/1570159x21666230404103914	5.3	0.0	Closed	2.0	2.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Israel	Italy
+397	2022	34490928	1365-2990	0305-1846	Neuropathol Appl Neurobiol	Neuropathology and applied neurobiology	MiR-142-3p regulates synaptopathy-driven disease progression in multiple sclerosis.	10.1111/nan.12765	5.0	3.0	All OA; Green	15.0	15.0	2.93	6.39	3 Good Health and Well Being	4.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Serbia	Italy	Israel
+404	2021	34925346	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Engineering, Characterization, and Biological Evaluation of an Antibody Targeting the HGF Receptor.	10.3389/fimmu.2021.775151	7.3	1.0	All OA; Gold	2.0	2.0	0.17	0.43	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+405	2021	34179015	2296-634X	2296-634X	Front Cell Dev Biol	Frontiers in cell and developmental biology	HGF and MET: From Brain Development to Neurological Disorders.	10.3389/fcell.2021.683609	5.5	2.0	All OA; Gold	56.0	55.0	4.36	20.09	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	Italy
+412	2021	34879272	2211-1247	no_issn_linking	Cell Rep	Cell reports	Interleukin-17 affects synaptic plasticity and cognition in an experimental model of multiple sclerosis.	10.1016/j.celrep.2021.110094	8.8	5.0	All OA; Gold	41.0	41.0	3.36	no_dimension_field_citations_found	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+415	2021	34051695	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	A comparison of upper limb function in subjects with multiple sclerosis and healthy controls using an inertial measurement unit.	10.1016/j.msard.2021.103036	4.0	7.0	Closed	3.0	3.0	0.78	1.08	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+416	2023	37175888	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	The Tricky Connection between Extracellular Vesicles and Mitochondria in Inflammatory-Related Diseases.	10.3390/ijms24098181	5.6	4.0	All OA; Gold	12.0	12.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+421	2021	33723372	1476-5403	1350-9047	Cell Death Differ	Cell death and differentiation	Characterization of a natural variant of human NDP52 and its functional consequences on mitophagy.	10.1038/s41418-021-00766-3	12.4	7.0	All OA; Bronze	12.0	11.0	1.14	2.86	no_dimension_sustainable_found	4.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy	USA	Denmark
+423	2021	34778265	2296-634X	2296-634X	Front Cell Dev Biol	Frontiers in cell and developmental biology	CD4<sup>+</sup> T-Cell Activation Prompts Suppressive Function by Extracellular Vesicle-Associated MicroRNAs.	10.3389/fcell.2021.753884	5.5	1.0	All OA; Gold	3.0	3.0	0.32	0.68	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+425	2023	37470461	1521-4141	0014-2980	Eur J Immunol	European journal of immunology	Microbiota, diet, and the gut-brain axis in multiple sclerosis and stroke.	10.1002/eji.202250229	5.4	13.0	All OA; Hybrid	2.0	2.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	N	Germany
+429	2021	32986852	1365-2567	0019-2805	Immunology	Immunology	A splice acceptor variant in HLA-DRA affects the conformation and cellular localization of the class II DR alpha-chain.	10.1111/imm.13273	6.4	2.0	All OA; Bronze	3.0	3.0	0.3	0.58	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+443	2022	35205376	2073-4425	2073-4425	Genes (Basel)	Genes	The BDNF Val66Met Polymorphism (rs6265) Modulates Inflammation and Neurodegeneration in the Early Phases of Multiple Sclerosis.	10.3390/genes13020332	3.5	0.0	All OA; Gold	7.0	7.0	1.73	3.69	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+445	2023	36803228	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Genetic regulation of IL-8 influences disease presentation of multiple sclerosis.	10.1177/13524585231155049	5.8	1.0	Closed	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+448	2021	33777018	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Immune Soluble Factors in the Cerebrospinal Fluid of Progressive Multiple Sclerosis Patients Segregate Into Two Groups.	10.3389/fimmu.2021.633167	7.3	7.0	All OA; Gold	11.0	10.0	1.14	2.62	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Switzerland	Italy
+453	2023	37332201	1471-4159	0022-3042	J Neurochem	Journal of neurochemistry	Cerebrospinal fluid, brain, and spinal cord levels of L-aspartate signal excitatory neurotransmission abnormalities in multiple sclerosis patients and experimental autoimmune encephalomyelitis mouse model.	10.1111/jnc.15884	4.7	3.0	All OA; Hybrid	2.0	2.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+462	2022	36163349	2041-1723	2041-1723	Nat Commun	Nature communications	Estimating individual treatment effect on disability progression in multiple sclerosis using deep learning.	10.1038/s41467-022-33269-x	16.6	8.0	All OA; Gold	8.0	8.0	0.35	6.93	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada
+472	2022	34741240	1432-1459	0340-5354	J Neurol	Journal of neurology	The impact of the COVID-19 pandemic on an international rehabilitation study in MS: the CogEx experience.	10.1007/s00415-021-10881-3	6.0	8.0	All OA; Bronze	5.0	5.0	0.95	2.55	3 Good Health and Well Being	4.0	Y	Y	covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark	no country
+473	2022	35939096	1432-1459	0340-5354	J Neurol	Journal of neurology	The late onset of emotional distress in people with progressive multiple sclerosis during the Covid-19 pandemic: longitudinal findings from the CogEx study.	10.1007/s00415-022-11295-5	6.0	2.0	All OA; Bronze	2.0	2.0	0.43	1.41	3 Good Health and Well Being	4.0	Y	Y	covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark	no country
+474	2023	37739574	1474-4465	1474-4422	Lancet Neurol	The Lancet. Neurology	Cognitive rehabilitation and aerobic exercise for cognitive impairment in people with progressive multiple sclerosis (CogEx): a randomised, blinded, sham-controlled trial.	10.1016/s1474-4422(23)00280-6	48.0	45.0	All OA; Green	9.0	9.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark	no country
+475	2021	34716313	2041-4889	no_issn_linking	Cell Death Dis	Cell death & disease	CD8<sup>+</sup> T cells specific for cryptic apoptosis-associated epitopes exacerbate experimental autoimmune encephalomyelitis.	10.1038/s41419-021-04310-6	9.0	10.0	All OA; Gold	6.0	6.0	0.56	1.36	no_dimension_sustainable_found	3.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+477	2021	33398046	2399-3642	2399-3642	Commun Biol	Communications biology	Age-related injury responses of human oligodendrocytes to metabolic insults: link to BCL-2 and autophagy pathways.	10.1038/s42003-020-01557-1	5.9	5.0	All OA; Gold	17.0	16.0	1.6	3.66	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Canada
+478	2022	35508518	1879-3061	1043-2760	Trends Endocrinol Metab	Trends in endocrinology and metabolism: TEM	Therapeutic opportunities to modulate immune tolerance through the metabolism-chromatin axis.	10.1016/j.tem.2022.04.002	10.9	2.0	Closed	3.0	3.0	0.41	1.28	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+483	2022	34292396	1432-1459	0340-5354	J Neurol	Journal of neurology	Risk of multiple sclerosis relapses when switching from fingolimod to cell-depleting agents: the role of washout duration.	10.1007/s00415-021-10708-1	6.0	1.0	Closed	5.0	5.0	0.59	2.13	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+484	2023	36675783	2075-4426	2075-4426	J Pers Med	Journal of personalized medicine	Combining Clinical and Genetic Data to Predict Response to Fingolimod Treatment in Relapsing Remitting Multiple Sclerosis Patients: A Precision Medicine Approach.	10.3390/jpm13010122	3.508	0.0	All OA; Gold	4.0	4.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	Italy
+486	2021	32975468	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Early evidence of disease activity during fingolimod predicts medium-term inefficacy in relapsing-remitting multiple sclerosis.	10.1177/1352458520961690	5.8	12.0	Closed	6.0	6.0	0.86	2.14	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+494	2022	35608658	1432-1459	0340-5354	J Neurol	Journal of neurology	Early use of high-efficacy disease‑modifying therapies makes the difference in people with multiple sclerosis: an expert opinion.	10.1007/s00415-022-11193-w	6.0	32.0	All OA; Hybrid	40.0	40.0	7.37	34.63	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+500	2021	33416892	1540-9538	0022-1007	J Exp Med	The Journal of experimental medicine	Effects of dietary restriction on neuroinflammation in neurodegenerative diseases.	10.1084/jem.20190086	15.3	80.0	All OA; Hybrid	56.0	49.0	4.51	no_dimension_field_citations_found	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Australia	UK	USA
+502	2023	36639562	1546-170X	1078-8956	Nat Med	Nature medicine	A neural stem-cell treatment for progressive multiple sclerosis.	10.1038/s41591-022-02164-9	82.9	30.0	Closed	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	N	UK	USA
+516	2022	36176630	1662-5102	1662-5102	Front Cell Neurosci	Frontiers in cellular neuroscience	The multiple faces of extracellular vesicles released by microglia: Where are we 10 years after?	10.3389/fncel.2022.984690	5.3	2.0	All OA; Gold	15.0	15.0	1.78	5.86	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+518	2022	35254410	1460-2156	0006-8950	Brain	Brain : a journal of neurology	Microglial large extracellular vesicles propagate early synaptic dysfunction in Alzheimer's disease.	10.1093/brain/awac083	14.5	56.0	All OA; Hybrid	35.0	35.0	5.56	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+524	2021	33250195	1872-9452	0098-2997	Mol Aspects Med	Molecular aspects of medicine	Immunometabolism of regulatory T cells in cancer.	10.1016/j.mam.2020.100936	10.6	0.0	Closed	11.0	9.0	0.67	2.51	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+536	2022	34407376	1557-7716	1523-0864	Antioxid Redox Signal	Antioxidants & redox signaling	Type 1 Diabetes and Associated Cardiovascular Damage: Contribution of Extracellular Vesicles in Tissue Crosstalk.	10.1089/ars.2021.0053	6.6	1.0	Closed	0.0	0.0	no_dimension_relative_citations_found	0.0	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+538	2022	35979352	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Proinflammatory mucosal-associated invariant CD8+ T cells react to gut flora yeasts and infiltrate multiple sclerosis brain.	10.3389/fimmu.2022.890298	7.3	28.0	All OA; Gold	13.0	13.0	1.62	5.38	no_dimension_sustainable_found	5.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+539	2021	33451129	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	The Landscape of AhR Regulators and Coregulators to Fine-Tune AhR Functions.	10.3390/ijms22020757	5.6	0.0	All OA; Gold	32.0	27.0	3.63	6.89	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+540	2022	35704993	1097-4180	1074-7613	Immunity	Immunity	Indoleamine 2,3-dioxygenase 1 activation in mature cDC1 promotes tolerogenic education of inflammatory cDC2 via metabolic communication.	10.1016/j.immuni.2022.05.013	32.4	27.0	All OA; Hybrid	43.0	43.0	5.36	18.38	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy	USA	Netherlands	France	Austria
+541	2021	34060720	1538-7836	1538-7836	J Thromb Haemost	Journal of thrombosis and haemostasis : JTH	Factor XII protects neurons from apoptosis by epidermal and hepatocyte growth factor receptor-dependent mechanisms.	10.1111/jth.15414	10.4	12.0	All OA; Green	2.0	1.0	0.3	0.72	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	Italy
+542	2023	36657567	1879-016X	0163-7258	Pharmacol Ther	Pharmacology & therapeutics	Interleukin-4 as a therapeutic target.	10.1016/j.pharmthera.2023.108348	13.5	0.0	Closed	11.0	11.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Germany
+543	2021	33786942	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	Scoring the 10-year risk of ambulatory disability in multiple sclerosis: the RoAD score.	10.1111/ene.14845	5.1	17.0	Closed	16.0	15.0	2.16	8.17	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Spain	Italy
+546	2023	37441254	2516-0230	2516-0230	Nanoscale Adv	Nanoscale advances	Pivotal role of the protein corona in the cell uptake of fluorinated nanoparticles with increased sensitivity for <sup>19</sup>F-MR imaging.	10.1039/d3na00229b	4.7	4.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Spain	Italy
+548	2023	36653901	1521-4141	0014-2980	Eur J Immunol	European journal of immunology	Eomesodermin-expressing type 1 regulatory (EOMES<sup>+</sup> Tr1)-like T cells: Basic biology and role in immune-mediated diseases.	10.1002/eji.202149775	5.4	2.0	All OA; Hybrid	6.0	6.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Switzerland	Italy
+550	2023	36624312	1546-170X	1078-8956	Nat Med	Nature medicine	Neural stem cell transplantation in patients with progressive multiple sclerosis: an open-label, phase 1 study.	10.1038/s41591-022-02097-3	82.9	139.0	All OA; Hybrid	30.0	30.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+556	2022	34861628	1090-2120	0045-2068	Bioorg Chem	Bioorganic chemistry	Synthesis and biological evaluation of novel rhodanine-based structures with antiviral activity towards HHV-6 virus.	10.1016/j.bioorg.2021.105518	5.1	1.0	Closed	4.0	4.0	1.04	0.79	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+559	2022	35691235	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Physical activity in non-disabled people with early multiple sclerosis: A multicenter cross-sectional study.	10.1016/j.msard.2022.103941	4.0	1.0	Closed	5.0	5.0	2.22	4.33	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+560	2023	38005634	1424-8220	1424-8220	Sensors (Basel)	Sensors (Basel, Switzerland)	Uncovering Subtle Gait Deterioration in People with Early-Stage Multiple Sclerosis Using Inertial Sensors: A 2-Year Multicenter Longitudinal Study.	10.3390/s23229249	3.9	1.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+561	2022	35874684	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Acute Thermoregulatory and Cardiovascular Response to Submaximal Exercise in People With Multiple Sclerosis.	10.3389/fimmu.2022.842269	7.3	2.0	All OA; Gold	1.0	1.0	0.59	0.44	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Germany	Italy
+562	2021	35035297	1537-2073	1537-2073	Int J MS Care	International journal of MS care	The Multiple Sclerosis Data Alliance Catalogue: Enabling Web-Based Discovery of Metadata from Real-World Multiple Sclerosis Data Sources.	10.7224/1537-2073.2021-006	no_if_found	10.0	All OA; Gold	4.0	3.0	0.64	1.7	no_dimension_sustainable_found	5.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Croatia	USA	Argentina	Switzerland	UK	Greece	Lebanon	Italy	Poland	Egypt	Brazil	Germany	Bulgaria	Spain	Belgium	Australia	Netherlands	Serbia	no country
+564	2021	34196310	1558-8238	0021-9738	J Clin Invest	The Journal of clinical investigation	Targeting the gut to treat multiple sclerosis.	10.1172/jci143774	15.9	9.0	All OA; Bronze	48.0	46.0	4.35	10.99	no_dimension_sustainable_found	1.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	N	Australia	UK	USA
+573	2022	36140159	2227-9059	2227-9059	Biomedicines	Biomedicines	Fatigue in Multiple Sclerosis Is Associated with Reduced Expression of Interleukin-10 and Worse Prospective Disease Activity.	10.3390/biomedicines10092058	4.7	1.0	All OA; Gold	9.0	9.0	1.15	7.79	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Serbia	Italy
+574	2022	35835361	1095-953X	0969-9961	Neurobiol Dis	Neurobiology of disease	Preventive exercise attenuates IL-2-driven mood disorders in multiple sclerosis.	10.1016/j.nbd.2022.105817	6.1	12.0	All OA; Gold	10.0	10.0	1.78	8.66	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+588	2022	35100924	1464-5165	0963-8288	Disabil Rehabil	Disability and rehabilitation	Evaluation of a program for training psychologists in an acceptance and commitment therapy resilience intervention for people with multiple sclerosis: a single-arm longitudinal design with a nested qualitative study.	10.1080/09638288.2022.2025926	2.2	3.0	All OA; Green	7.0	7.0	2.92	no_dimension_field_citations_found	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Australia	Italy
+589	2022	35500015	1932-6203	1932-6203	PLoS One	PloS one	A group resilience training program for people with multiple sclerosis: Study protocol of a multi-centre cluster-randomized controlled trial (multi-READY for MS).	10.1371/journal.pone.0267245	3.7	1.0	All OA; Gold	5.0	5.0	1.14	4.47	3 Good Health and Well Being	4.0	Y	Y	covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Australia	Italy	USA
+594	2022	34406895	1464-5165	0963-8288	Disabil Rehabil	Disability and rehabilitation	Effectiveness of a group resilience intervention for people with multiple sclerosis delivered <i>via</i> frontline services.	10.1080/09638288.2021.1960441	2.2	8.0	All OA; Green	23.0	23.0	6.75	11.14	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Australia	Italy	no country
+595	2021	34446714	2041-1723	2041-1723	Nat Commun	Nature communications	AHR signaling is induced by infection with coronaviruses.	10.1038/s41467-021-25412-x	16.6	11.0	All OA; Gold	41.0	39.0	3.4	10.99	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Argentina	USA	Canada
+606	2021	34320388	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Italian translation and psychometric validation of the ABILHAND-26 and its correlation with upper limb objective and subjective measures in multiple sclerosis subjects.	10.1016/j.msard.2021.103160	4.0	10.0	Closed	3.0	3.0	0.82	1.08	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+607	2021	33063713	1673-5374	1673-5374	Neural Regen Res	Neural regeneration research	The phenotypic convergence between microglia and peripheral macrophages during development and neuroinflammation paves the way for new therapeutic perspectives.	10.4103/1673-5374.295272	no_if_found	10.0	All OA; Gold	11.0	9.0	1.02	2.83	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+609	2021	32355992	1432-0460	0179-051X	Dysphagia	Dysphagia	The Dysphagia in Multiple Sclerosis Questionnaire Correlates with Fiber-Optic Endoscopic Examination for Detecting Swallowing Deficits in MS.	10.1007/s00455-020-10119-w	2.6	4.0	Closed	10.0	7.0	1.34	3.56	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+610	2022	35787550	1531-7048	1065-6251	Curr Opin Hematol	Current opinion in hematology	Alteration of interleukin-10-producing Type 1 regulatory cells in autoimmune diseases.	10.1097/moh.0000000000000720	3.2	1.0	Closed	6.0	6.0	0.69	2.56	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+613	2021	33269772	1673-5374	1673-5374	Neural Regen Res	Neural regeneration research	Microglia-oligodendrocyte intercellular communication: role of extracellular vesicle lipids in functional signalling.	10.4103/1673-5374.300430	no_if_found	1.0	All OA; Gold	8.0	6.0	0.97	2.06	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+617	2022	35723265	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Anti-SARS-CoV-2 T-stem cell memory persists in ocrelizumab-treated MS patients.	10.1177/13524585221102158	5.8	6.0	Closed	7.0	7.0	0.9	2.99	3 Good Health and Well Being	4.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Switzerland	Italy
+619	2021	33785581	1468-330X	0022-3050	J Neurol Neurosurg Psychiatry	Journal of neurology, neurosurgery, and psychiatry	Linear brain atrophy measures in multiple sclerosis and clinically isolated syndromes: a 30-year follow-up.	10.1136/jnnp-2020-325421	11.0	34.0	All OA; Green	11.0	9.0	0.99	5.62	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK	Austria
+621	2023	37636454	2405-8440	2405-8440	Heliyon	Heliyon	Time-resolved single-cell RNAseq profiling identifies a novel <i>Fabp5</i><sup>+</sup> subpopulation of inflammatory myeloid cells with delayed cytotoxic profile in chronic spinal cord injury.	10.1016/j.heliyon.2023.e18339	4.0	2.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+622	2023	37039158	1531-8249	0364-5134	Ann Neurol	Annals of neurology	Positron Emission Tomography with [<sup>18</sup> F]-DPA-714 Unveils a Smoldering Component in Most Multiple Sclerosis Lesions which Drives Disease Progression.	10.1002/ana.26657	11.2	61.0	All OA; Hybrid	12.0	12.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	France	Italy
+623	2022	35587822	1540-9538	0022-1007	J Exp Med	The Journal of experimental medicine	Interleukin-4 receptor signaling modulates neuronal network activity.	10.1084/jem.20211887	15.3	33.0	All OA; Hybrid	14.0	14.0	0.95	8.13	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy
+625	2021	34948279	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Two-Chains Tissue Plasminogen Activator Unifies Met and NMDA Receptor Signalling to Control Neuronal Survival.	10.3390/ijms222413483	5.6	6.0	All OA; Gold	9.0	9.0	0.83	1.94	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	UK	Italy
+632	2021	32322087	1476-5578	1359-4184	Mol Psychiatry	Molecular psychiatry	Clinical predictivity of thalamic sub-regional connectivity in clinically isolated syndrome: a 7-year study.	10.1038/s41380-020-0726-4	11.0	2.0	Closed	9.0	7.0	0.96	3.2	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Serbia	Italy
+633	2021	33813839	2158-0022	2158-0014	Brain Connect	Brain connectivity	Dynamic Functional Connectivity in the Main Clinical Phenotypes of Multiple Sclerosis.	10.1089/brain.2020.0920	3.4	1.0	Closed	15.0	15.0	1.58	5.61	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+636	2022	35853549	1872-9649	1568-1637	Ageing Res Rev	Ageing research reviews	The impact of aerobic and resistance training intensity on markers of neuroplasticity in health and disease.	10.1016/j.arr.2022.101698	13.1	20.0	All OA; Hybrid	31.0	31.0	4.54	26.83	3 Good Health and Well Being	2.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Germany	Italy	Canada	Hungary	Sweden	Netherlands	Israel	Czech Republic	Denmark
+642	2022	35971322	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Towards a validated definition of the clinical transition to secondary progressive multiple sclerosis: A study from the Italian MS Register.	10.1177/13524585221114007	5.8	4.0	Closed	4.0	4.0	1.03	3.46	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	USA
+643	2022	35046084	2332-7812	2332-7812	Neurol Neuroimmunol Neuroinflamm	Neurology(R) neuroimmunology & neuroinflammation	Risk of Getting COVID-19 in People With Multiple Sclerosis: A Case-Control Study.	10.1212/nxi.0000000000001141	8.8	23.0	All OA; Gold	32.0	32.0	3.89	27.7	3 Good Health and Well Being	4.0	Y	Y	covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	no country
+645	2022	36059537	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Cross-sectional analysis of the humoral response after SARS-CoV-2 vaccination in Sardinian multiple sclerosis patients, a follow-up study.	10.3389/fimmu.2022.946356	7.3	1.0	All OA; Gold	2.0	2.0	0.36	0.85	3 Good Health and Well Being	2.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+646	2023	37325041	1662-4548	1662-453X	Front Neurosci	Frontiers in neuroscience	Time-of-day influences resting-state functional cortical connectivity.	10.3389/fnins.2023.1192674	no_if_found	4.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	Italy
+651	2023	37380766	1476-4687	0028-0836	Nature	Nature	Locus for severity implicates CNS resilience in progression of multiple sclerosis.	10.1038/s41586-023-06250-x	64.8	751.0	All OA; Green	36.0	36.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	N	no country
+662	2021	33936108	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Central Nervous System Barriers Impact Distribution and Expression of iNOS and Arginase-1 in Infiltrating Macrophages During Neuroinflammation.	10.3389/fimmu.2021.666961	7.3	3.0	All OA; Gold	13.0	10.0	1.19	3.93	3 Good Health and Well Being	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Switzerland
+664	2022	35063202	2405-4577	2405-4577	Clin Nutr ESPEN	Clinical nutrition ESPEN	The impact of lifetime coffee and tea loads on Multiple Sclerosis severity.	10.1016/j.clnesp.2021.12.014	no_if_found	14.0	Closed	0.0	0.0	no_dimension_relative_citations_found	0.0	no_dimension_sustainable_found	2.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+670	2021	31845614	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Differential item functioning of the Arm function in Multiple Sclerosis Questionnaire (AMSQ) by language, a study in six countries.	10.1177/1352458519895450	5.8	12.0	All OA; Bronze	6.0	3.0	1.09	1.85	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Canada	Ireland	USA	Netherlands	Switzerland	Spain	France
+673	2023	36719741	1558-8238	0021-9738	J Clin Invest	The Journal of clinical investigation	Neuron-oligodendrocyte potassium shuttling at nodes of Ranvier protects against inflammatory demyelination.	10.1172/jci164223	15.9	49.0	All OA; Gold	4.0	4.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Germany	USA	no country
+681	2022	35501895	1478-4505	1478-4505	Health Res Policy Syst	Health research policy and systems	Collective health research assessment: developing a tool to measure the impact of multistakeholder research initiatives.	10.1186/s12961-022-00856-9	4.139	4.0	All OA; Gold	4.0	4.0	1.15	3.58	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	France	Spain	Finland	Italy
+683	2021	33279412	1471-4981	1471-4906	Trends Immunol	Trends in immunology	Succinate Receptor 1: An Emerging Regulator of Myeloid Cell Function in Inflammation.	10.1016/j.it.2020.11.004	16.8	18.0	Closed	34.0	25.0	2.37	5.31	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+684	2023	37451353	1872-8278	1567-7249	Mitochondrion	Mitochondrion	Mitochondrial dysfunction and skeletal muscle atrophy: Causes, mechanisms, and treatment strategies.	10.1016/j.mito.2023.07.003	4.4	112.0	Closed	10.0	10.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Turkey
+686	2021	34489975	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Binding of Staphylococcal Enterotoxin B (SEB) to B7 Receptors Triggers TCR- and CD28-Mediated Inflammatory Signals in the Absence of MHC Class II Molecules.	10.3389/fimmu.2021.723689	7.3	7.0	All OA; Gold	10.0	10.0	0.89	2.39	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Israel	Italy
+688	2022	35211120	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Astrocytes and Inflammatory T Helper Cells: A Dangerous Liaison in Multiple Sclerosis.	10.3389/fimmu.2022.824411	7.3	2.0	All OA; Gold	14.0	14.0	2.07	5.98	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+692	2023	37207220	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Bivalent binding of staphylococcal superantigens to the TCR and CD28 triggers inflammatory signals independently of antigen presenting cells.	10.3389/fimmu.2023.1170821	7.3	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Israel	Italy
+695	2023	36579727	1099-1387	1075-2617	J Pept Sci	Journal of peptide science : an official publication of the European Peptide Society	Modulation of hydrogel networks by metal ions.	10.1002/psc.3474	2.1	0.0	Closed	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+696	2022	36152385	1768-3254	0223-5234	Eur J Med Chem	European journal of medicinal chemistry	Ad-hoc modifications of cyclic mimetics of SOCS1 protein: Structural and functional insights.	10.1016/j.ejmech.2022.114781	6.7	0.0	All OA; Green	3.0	3.0	0.62	1.01	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+712	2022	35733047	1940-6029	1064-3745	Methods Mol Biol	Methods in molecular biology (Clifton, N.J.)	Integrating Primary Astrocytes in a Microfluidic Model of the Blood-Brain Barrier.	10.1007/978-1-0716-2289-6_12	no_if_found	0.0	Closed	2.0	2.0	0.24	0.73	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+718	2023	38016468	1875-9777	1875-9777	Cell Stem Cell	Cell stem cell	Phase I clinical trial of intracerebroventricular transplantation of allogeneic neural stem cells in people with progressive multiple sclerosis.	10.1016/j.stem.2023.11.001	23.9	2397.0	All OA; Hybrid	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	United Arab Emirates	Italy	USA	Switzerland	UK
+719	2021	33058344	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	Detection of disability worsening in relapsing-remitting multiple sclerosis patients: a real-world roving Expanded Disability Status Scale reference analysis from the Italian Multiple Sclerosis Register.	10.1111/ene.14589	5.1	1.0	Closed	5.0	1.0	0.82	1.51	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+727	2023	37689786	2041-1723	2041-1723	Nat Commun	Nature communications	PD-L1 positive astrocytes attenuate inflammatory functions of PD-1 positive microglia in models of autoimmune neuroinflammation.	10.1038/s41467-023-40982-8	16.6	36.0	All OA; Gold	4.0	4.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	N	Germany	France	USA
+728	2022	36043705	1365-2567	0019-2805	Immunology	Immunology	Epigenetics: An opportunity to shape innate and adaptive immune responses.	10.1111/imm.13571	6.4	1.0	All OA; Hybrid	12.0	12.0	1.09	5.13	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+746	2021	33478569	1756-6606	1756-6606	Mol Brain	Molecular brain	The novel multiple sclerosis susceptibility gene ATXN1 regulates B cell receptor signaling in B-1a cells.	10.1186/s13041-020-00715-0	3.6	3.0	All OA; Gold	6.0	6.0	0.52	1.36	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+757	2021	33484486	2328-9503	2328-9503	Ann Clin Transl Neurol	Annals of clinical and translational neurology	CSF parvalbumin levels reflect interneuron loss linked with cortical pathology in multiple sclerosis.	10.1002/acn3.51298	5.3	7.0	All OA; Gold	21.0	16.0	1.95	10.72	no_dimension_sustainable_found	2.0	Y	Y	no_covid	prevenzione_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	UK	Italy
+761	2021	34359880	2073-4409	2073-4409	Cells	Cells	Changes in Cerebrospinal Fluid Balance of TNF and TNF Receptors in Naïve Multiple Sclerosis Patients: Early Involvement in Compartmentalised Intrathecal Inflammation.	10.3390/cells10071712	6.0	1.0	All OA; Gold	14.0	14.0	1.52	7.15	no_dimension_sustainable_found	1.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	UK	Italy
+777	2021	33337256	1758-1060	1355-8196	J Health Serv Res Policy	Journal of health services research & policy	Impact of the COVID-19 pandemic on persons with multiple sclerosis: Early findings from a survey on disruptions in care and self-reported outcomes.	10.1177/1355819620975069	2.3	11.0	All OA; Hybrid	40.0	29.0	5.15	18.48	3 Good Health and Well Being	2.0	Y	Y	covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	UK	Italy
+780	2022	35462872	1537-2073	1537-2073	Int J MS Care	International journal of MS care	Sex-Based Differences in Oxygen Cost of Walking and Energy Equivalents in Minimally Disabled Individuals With Multiple Sclerosis and Controls.	10.7224/1537-2073.2020-112	no_if_found	8.0	All OA; Gold	2.0	2.0	0.51	0.85	7 Affordable and Clean Energy	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Israel	Italy
+801	2021	33562569	2073-4409	2073-4409	Cells	Cells	The microRNA let-7b-5p Is Negatively Associated with Inflammation and Disease Severity in Multiple Sclerosis.	10.3390/cells10020330	6.0	1.0	All OA; Gold	24.0	21.0	2.48	no_dimension_field_citations_found	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+802	2022	35756927	1664-2295	1664-2295	Front Neurol	Frontiers in neurology	PD-1/PD-L Axis in Neuroinflammation: New Insights.	10.3389/fneur.2022.877936	3.4	10.0	All OA; Gold	17.0	17.0	2.38	8.68	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+805	2022	35462168	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Long term persistence of SARS-CoV-2 humoral response in multiple sclerosis subjects.	10.1016/j.msard.2022.103800	4.0	1.0	All OA; Bronze	4.0	4.0	0.32	3.46	3 Good Health and Well Being	3.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+806	2022	34929455	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Interferon Beta-1a treatment promotes SARS-CoV-2 mRNA vaccine response in multiple sclerosis subjects.	10.1016/j.msard.2021.103455	4.0	7.0	All OA; Green	14.0	14.0	1.92	3.34	3 Good Health and Well Being	3.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+807	2023	37081894	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	A tryptophan metabolite prevents depletion of circulating endothelial progenitor cells in systemic low-grade inflammation.	10.3389/fimmu.2023.964660	7.3	0.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Austria
+809	2023	36831194	2073-4409	2073-4409	Cells	Cells	Extracellular Vesicles in Aging: An Emerging Hallmark?	10.3390/cells12040527	6.0	25.0	All OA; Gold	7.0	7.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+810	2021	33714029	2352-3964	2352-3964	EBioMedicine	EBioMedicine	Identification of novel myelin repair drugs by modulation of oligodendroglial differentiation competence.	10.1016/j.ebiom.2021.103276	11.1	15.0	All OA; Gold	17.0	12.0	1.84	8.68	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Germany	Australia	Canada
+811	2022	35812097	1664-2295	1664-2295	Front Neurol	Frontiers in neurology	The Potential for EBV Vaccines to Prevent Multiple Sclerosis.	10.3389/fneur.2022.887794	3.4	45.0	All OA; Gold	18.0	18.0	2.2	8.49	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK	USA
+812	2023	36851110	2076-393X	2076-393X	Vaccines (Basel)	Vaccines	COVID-19, SARS-CoV-2 Vaccination, and Human Herpesviruses Infections.	10.3390/vaccines11020232	7.8	10.0	All OA; Gold	6.0	6.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+813	2021	32239390	1573-6830	0272-4340	Cell Mol Neurobiol	Cellular and molecular neurobiology	Pathway-Focused Profiling of Oligodendrocytes Over-Expressing miR-125a-3p Reveals Alteration of Wnt and Cell-to-Cell Signaling.	10.1007/s10571-020-00836-z	4.0	0.0	All OA; Green	9.0	8.0	0.85	1.8	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+814	2022	35954217	2073-4409	2073-4409	Cells	Cells	Rewiring of Glucose and Lipid Metabolism Induced by G Protein-Coupled Receptor 17 Silencing Enables the Transition of Oligodendrocyte Progenitors to Myelinating Cells.	10.3390/cells11152369	6.0	51.0	All OA; Gold	4.0	4.0	0.73	1.53	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+816	2022	36613914	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Neuronal and Glial Communication via Non-Coding RNAs: Messages in Extracellular Vesicles.	10.3390/ijms24010470	5.6	2.0	All OA; Gold	2.0	2.0	0.41	0.78	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+817	2021	34720882	1662-5102	1662-5102	Front Cell Neurosci	Frontiers in cellular neuroscience	Novel <i>in vitro</i> Experimental Approaches to Study Myelination and Remyelination in the Central Nervous System.	10.3389/fncel.2021.748849	5.3	8.0	All OA; Gold	12.0	12.0	1.02	4.31	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+818	2021	34588298	2332-7812	2332-7812	Neurol Neuroimmunol Neuroinflamm	Neurology(R) neuroimmunology & neuroinflammation	CSF Levels of CXCL12 and Osteopontin as Early Markers of Primary Progressive Multiple Sclerosis.	10.1212/nxi.0000000000001083	8.8	16.0	All OA; Gold	22.0	22.0	2.14	11.23	no_dimension_sustainable_found	1.0	Y	Y	no_covid	prevenzione_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	UK	Italy
+819	2021	33058888	1090-2430	0014-4886	Exp Neurol	Experimental neurology	Alternative splicing of neurexins 1-3 is modulated by neuroinflammation in the prefrontal cortex of a murine model of multiple sclerosis.	10.1016/j.expneurol.2020.113497	5.3	0.0	Closed	21.0	17.0	1.73	5.34	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+820	2022	34387534	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Functional and structural MRI correlates of executive functions in multiple sclerosis.	10.1177/13524585211033184	5.8	11.0	Closed	7.0	7.0	1.37	2.62	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+829	2022	35495042	1662-4548	1662-453X	Front Neurosci	Frontiers in neuroscience	Visual Evoked Potentials to Monitor Myelin Cuprizone-Induced Functional Changes.	10.3389/fnins.2022.820155	no_if_found	1.0	All OA; Gold	10.0	10.0	1.54	9.58	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+830	2022	35963325	1090-2430	0014-4886	Exp Neurol	Experimental neurology	Transcranial direct current stimulation as a preventive treatment in multiple sclerosis? Preclinical evidence.	10.1016/j.expneurol.2022.114201	5.3	2.0	Closed	2.0	2.0	0.52	1.92	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+831	2023	37323584	1662-5102	1662-5102	Front Cell Neurosci	Frontiers in cellular neuroscience	Visual evoked potentials waveform analysis to measure intracortical damage in a preclinical model of multiple sclerosis.	10.3389/fncel.2023.1186110	5.3	2.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+832	2022	35580993	1468-330X	0022-3050	J Neurol Neurosurg Psychiatry	Journal of neurology, neurosurgery, and psychiatry	Exploring in vivo multiple sclerosis brain microstructural damage through T1w/T2w ratio: a multicentre study.	10.1136/jnnp-2022-328908	11.0	22.0	All OA; Green	15.0	15.0	2.85	10.55	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	USA	Netherlands	Spain	UK	Serbia	no country
+840	2022	35279776	1573-4978	0301-4851	Mol Biol Rep	Molecular biology reports	The impact of pre-freezing storage time and temperature on gene expression of blood collected in EDTA tubes.	10.1007/s11033-022-07320-5	2.8	0.0	All OA; Hybrid	3.0	3.0	1.0	1.58	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+841	2021	33809077	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	A First Phenotypic and Functional Characterization of Placental Extracellular Vesicles from Women with Multiple Sclerosis.	10.3390/ijms22062875	5.6	2.0	All OA; Gold	4.0	4.0	0.38	0.86	3 Good Health and Well Being	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+842	2023	36255155	1097-0193	1065-9471	Hum Brain Mapp	Human brain mapping	Prediction of the information processing speed performance in multiple sclerosis using a machine learning approach in a large multicenter magnetic resonance imaging data set.	10.1002/hbm.26106	4.8	1.0	All OA; Gold	13.0	13.0	3.02	9.18	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	USA	no country
+844	2022	34922125	1872-8421	0165-5728	J Neuroimmunol	Journal of neuroimmunology	Burden of rare coding variants in an Italian cohort of familial multiple sclerosis.	10.1016/j.jneuroim.2021.577760	3.3	1.0	Closed	4.0	3.0	0.56	1.16	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+848	2023	36996218	1095-9203	0036-8075	Science	Science (New York, N.Y.)	The link between obesity and autoimmunity.	10.1126/science.ade0113	56.9	179.0	Closed	21.0	21.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+856	2021	34836210	2072-6643	2072-6643	Nutrients	Nutrients	How to Tackle the Relationship between Autoimmune Diseases and Diet: Well Begun Is Half-Done.	10.3390/nu13113956	5.9	40.0	All OA; Gold	18.0	18.0	1.37	5.18	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+869	2023	37478888	1474-4465	1474-4422	Lancet Neurol	The Lancet. Neurology	Insights into migraine attacks from neuroimaging.	10.1016/s1474-4422(23)00152-7	48.0	143.0	Closed	6.0	6.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	UK	Italy	USA
+871	2022	31865757	1745-9206	1742-3953	Chronic Illn	Chronic illness	What factors influence feeling competent as a parent with multiple sclerosis?	10.1177/1742395319895310	1.3	0.0	Closed	2.0	2.0	1.63	0.58	3 Good Health and Well Being	1.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+875	2023	37380732	2045-2322	2045-2322	Sci Rep	Scientific reports	Complementary use of statistical parametric mapping and gait profile score to describe walking alterations in multiple sclerosis: a cross-sectional study.	10.1038/s41598-023-36916-5	4.6	3.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+876	2021	33971224	1873-7528	0149-7634	Neurosci Biobehav Rev	Neuroscience and biobehavioral reviews	Growing role of S100B protein as a putative therapeutic target for neurological- and nonneurological-disorders.	10.1016/j.neubiorev.2021.04.035	8.2	3.0	Closed	22.0	20.0	2.78	no_dimension_field_citations_found	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+888	2021	34360699	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Differential Proteomic Analysis of Astrocytes and Astrocytes-Derived Extracellular Vesicles from Control and Rai Knockout Mice: Insights into the Mechanisms of Neuroprotection.	10.3390/ijms22157933	5.6	11.0	All OA; Gold	9.0	9.0	0.69	1.94	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+891	2023	36795147	1432-1459	0340-5354	J Neurol	Journal of neurology	Modifiable risk factors of COVID-19 in patients with multiple sclerosis: a single-centre case-control study.	10.1007/s00415-023-11618-0	6.0	0.0	All OA; Bronze	4.0	4.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+904	2022	36137327	1872-7565	0169-2607	Comput Methods Programs Biomed	Computer methods and programs in biomedicine	A markerless pipeline to analyze spontaneous movements of preterm infants.	10.1016/j.cmpb.2022.107119	6.1	9.0	Closed	10.0	10.0	0.92	7.66	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+905	2023	37311951	1590-3478	1590-1874	Neurol Sci	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	Data monitoring roadmap. The experience of the Italian Multiple Sclerosis and Related Disorders Register.	10.1007/s10072-023-06876-9	3.3	1.0	All OA; Hybrid	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+907	2021	33301181	1098-1136	0894-1491	Glia	Glia	Beneficial contribution of induced pluripotent stem cell-progeny to Connexin 47 dynamics during demyelination-remyelination.	10.1002/glia.23950	6.2	9.0	All OA; Hybrid	6.0	6.0	0.68	0.93	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	France	Italy
+912	2023	36152210	1940-6029	1064-3745	Methods Mol Biol	Methods in molecular biology (Clifton, N.J.)	Electrophysiology of Endocannabinoid Signaling.	10.1007/978-1-0716-2728-0_38	no_if_found	0.0	Closed	1.0	1.0	no_dimension_relative_citations_found	0.36	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+917	2021	34630027	1662-4548	1662-453X	Front Neurosci	Frontiers in neuroscience	Microglia in Neuroinflammation and Neurodegeneration: From Understanding to Therapy.	10.3389/fnins.2021.742065	no_if_found	21.0	All OA; Gold	197.0	195.0	17.6	70.68	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+924	2022	34363548	1590-3478	1590-1874	Neurol Sci	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	Job satisfaction among physicians and nurses involved in the management of multiple sclerosis: the role of happiness and meaning at work.	10.1007/s10072-021-05520-8	3.3	1.0	All OA; Hybrid	12.0	11.0	3.33	5.11	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+925	2022	34820704	1432-0878	0302-766X	Cell Tissue Res	Cell and tissue research	The role of neural stem cells in regulating glial scar formation and repair.	10.1007/s00441-021-03554-0	3.6	3.0	All OA; Hybrid	21.0	21.0	3.74	4.84	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+930	2021	33551237	1872-9452	0098-2997	Mol Aspects Med	Molecular aspects of medicine	Novel acquisitions in cell immunometabolism.	10.1016/j.mam.2021.100945	10.6	1.0	Closed	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+939	2022	35707531	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Astrocytes and Microglia in Stress-Induced Neuroinflammation: The African Perspective.	10.3389/fimmu.2022.795089	7.3	14.0	All OA; Gold	8.0	8.0	1.79	8.38	2 Zero Hunger; 3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Nigeria	Italy	USA	Kuwait
+949	2021	33159402	1478-3231	1478-3223	Liver Int	Liver international : official journal of the International Association for the Study of the Liver	CD8<sup>+</sup> T cells specific to apoptosis-associated epitopes are expanded in patients with chronic HBV infection and fibrosis.	10.1111/liv.14720	6.7	2.0	Closed	8.0	5.0	0.61	1.95	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+951	2021	33656622	1573-6792	0896-0267	Brain Topogr	Brain topography	Effects on Motor Control of Personalized Neuromodulation Against Multiple Sclerosis Fatigue.	10.1007/s10548-021-00820-w	2.7	1.0	Closed	5.0	4.0	0.67	1.79	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+953	2023	36152049	1432-1459	0340-5354	J Neurol	Journal of neurology	Multicenter data harmonization for regional brain atrophy and application in multiple sclerosis.	10.1007/s00415-022-11387-2	6.0	3.0	Closed	5.0	5.0	no_dimension_relative_citations_found	4.33	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+956	2022	33259004	1573-6830	0272-4340	Cell Mol Neurobiol	Cellular and molecular neurobiology	Prenatal Stress Impairs Spinal Cord Oligodendrocyte Maturation via BDNF Signaling in the Experimental Autoimmune Encephalomyelitis Model of Multiple Sclerosis.	10.1007/s10571-020-01014-x	4.0	3.0	All OA; Hybrid	7.0	6.0	1.03	1.8	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+957	2021	33421383	1932-7420	1550-4131	Cell Metab	Cell metabolism	Caloric Restriction Promotes Immunometabolic Reprogramming Leading to Protection from Tuberculosis.	10.1016/j.cmet.2020.12.016	29.0	57.0	All OA; Hybrid	37.0	32.0	2.32	8.13	2 Zero Hunger; 3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Switzerland	Italy	Netherlands
+958	2022	34894339	1179-1934	1172-7047	CNS Drugs	CNS drugs	Impact of Natural Killer (NK) Cells on Immune Reconstitution, and Their Potential as a Biomarker of Disease Activity, in Alemtuzumab-Treated Patients with Relapsing Remitting Multiple Sclerosis: An Observational Study.	10.1007/s40263-021-00875-0	6.0	10.0	Closed	5.0	5.0	0.29	1.19	no_dimension_sustainable_found	2.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+966	2021	33876200	1460-2156	0006-8950	Brain	Brain : a journal of neurology	Surface-in pathology in multiple sclerosis: a new view on pathogenesis?	10.1093/brain/awab025	14.5	15.0	All OA; Bronze	36.0	34.0	2.12	18.38	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	UK	Italy
+967	2021	33587955	1872-9754	0197-0186	Neurochem Int	Neurochemistry international	Exposure to fine particulate matter (PM<sub>2.5</sub>) hampers myelin repair in a mouse model of white matter demyelination.	10.1016/j.neuint.2021.104991	4.2	7.0	All OA; Green	9.0	8.0	1.16	2.48	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+970	2021	32463319	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Resting-state functional connectivity of anterior and posterior cerebellar lobes is altered in multiple sclerosis.	10.1177/1352458520922770	5.8	10.0	Closed	14.0	8.0	1.33	3.56	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+972	2022	35456036	2073-4409	2073-4409	Cells	Cells	Rank-Rankl-Opg Axis in Multiple Sclerosis: The Contribution of Placenta.	10.3390/cells11081357	6.0	0.0	All OA; Gold	3.0	3.0	0.21	3.33	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+975	2021	34099564	1091-6490	0027-8424	Proc Natl Acad Sci U S A	Proceedings of the National Academy of Sciences of the United States of America	Antipsychotic drugs counteract autophagy and mitophagy in multiple sclerosis.	10.1073/pnas.2020078118	11.1	8.0	All OA; Bronze	47.0	44.0	3.84	13.17	no_dimension_sustainable_found	2.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Poland	Italy
+979	2021	34166981	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Use of wrist-worn accelerometers to quantify bilateral upper limb activity and asymmetry under free-living conditions in people with multiple sclerosis.	10.1016/j.msard.2021.103081	4.0	2.0	Closed	10.0	10.0	1.36	3.59	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+980	2023	36508937	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Effect of immersive virtual reality training on hand-to-mouth task performance in people with Multiple Sclerosis: A quantitative kinematic study.	10.1016/j.msard.2022.104455	4.0	7.0	All OA; Green	7.0	7.0	no_dimension_relative_citations_found	4.07	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+984	2023	37047160	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	1,3,8-Triazaspiro[4.5]decane Derivatives Inhibit Permeability Transition Pores through a F<sub>O</sub>-ATP Synthase c Subunit Glu<sup>119</sup>-Independent Mechanism That Prevents Oligomycin A-Related Side Effects.	10.3390/ijms24076191	5.6	0.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+993	2021	33051914	1750-3639	1015-6305	Brain Pathol	Brain pathology (Zurich, Switzerland)	Overexpression of the ubiquitin-editing enzyme A20 in the brain lesions of Multiple Sclerosis patients: moving from systemic to central nervous system inflammation.	10.1111/bpa.12906	6.4	10.0	All OA; Hybrid	10.0	7.0	0.76	1.94	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	UK	Italy
+994	2021	33819577	1521-7035	1521-6616	Clin Immunol	Clinical immunology (Orlando, Fla.)	Serum levels of SARS-CoV-2 nucleocapsid antigen associate with inflammatory status and disease severity in COVID-19 patients.	10.1016/j.clim.2021.108720	8.6	2.0	All OA; Green	18.0	12.0	1.64	4.29	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1000	2022	35786043	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Therapy with mesenchymal stem cell transplantation in multiple sclerosis ready for prime time: Commentary.	10.1177/13524585221097958	5.8	4.0	Closed	1.0	1.0	no_dimension_relative_citations_found	0.39	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+1002	2021	33826607	1545-7885	1544-9173	PLoS Biol	PLoS biology	Neural stem cells traffic functional mitochondria via extracellular vesicles.	10.1371/journal.pbio.3001166	9.8	110.0	All OA; Gold	103.0	85.0	8.65	22.95	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	France	UK	Hungary
+1003	2021	34249016	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Metabolic Control of Smoldering Neuroinflammation.	10.3389/fimmu.2021.705920	7.3	107.0	All OA; Gold	20.0	20.0	1.06	4.31	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+1010	2022	36366483	1999-4915	1999-4915	Viruses	Viruses	Studying the Interactions of U24 from HHV-6 in Order to Further Elucidate Its Potential Role in MS.	10.3390/v14112384	4.7	1.0	All OA; Gold	4.0	4.0	0.38	1.56	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Canada
+1021	2021	33907013	1673-5374	1673-5374	Neural Regen Res	Neural regeneration research	Microglia activation: a role for mitochondrial DNA?	10.4103/1673-5374.313034	no_if_found	10.0	All OA; Gold	9.0	6.0	0.8	3.23	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1022	2021	32975472	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Intracortical motor conduction is associated with hand dexterity in progressive multiple sclerosis.	10.1177/1352458520960374	5.8	13.0	Closed	4.0	4.0	0.47	1.21	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1024	2022	34328817	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Cerebrospinal fluid inflammatory profile of cognitive impairment in newly diagnosed multiple sclerosis patients.	10.1177/13524585211032510	5.8	4.0	Closed	13.0	13.0	2.33	3.1	no_dimension_sustainable_found	1.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	UK	Italy
+1025	2021	34956211	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Effect of Different Disease-Modifying Therapies on Humoral Response to BNT162b2 Vaccine in Sardinian Multiple Sclerosis Patients.	10.3389/fimmu.2021.781843	7.3	10.0	All OA; Gold	46.0	46.0	3.01	10.97	3 Good Health and Well Being	2.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1027	2021	33545074	1875-9777	1875-9777	Cell Stem Cell	Cell stem cell	NSCs: Sentinel Cells of the Brain.	10.1016/j.stem.2020.11.016	23.9	1.0	All OA; Hybrid	4.0	4.0	0.23	0.86	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+1029	2023	37399437	2044-6055	2044-6055	BMJ Open	BMJ open	Development and psychometric properties of a self-assessed knowledge questionnaire for caregivers of people with multiple sclerosis (CareKoMS): a cross-sectional study.	10.1136/bmjopen-2023-071657	2.9	0.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1032	2022	35085980	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Mind wandering in people with Multiple Sclerosis: A psychometric study.	10.1016/j.msard.2022.103521	4.0	1.0	All OA; Hybrid	2.0	2.0	0.98	1.16	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1033	2022	33045916	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Focus on neglected features of cognitive rehabilitation in MS: Setting and mode of the treatment.	10.1177/1352458520966300	5.8	12.0	All OA; Hybrid	4.0	4.0	1.15	1.14	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1034	2022	36090243	1537-2073	1537-2073	Int J MS Care	International journal of MS care	Predictors of Mood Disorders in Parents With Multiple Sclerosis: The Role of Disability Level, Coping Techniques, and Perceived Social Support.	10.7224/1537-2073.2021-101	no_if_found	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	0.7	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1035	2023	37491303	2047-783X	0949-2321	Eur J Med Res	European journal of medical research	Standard versus innovative robotic balance assessment for people with multiple sclerosis: a correlational study.	10.1186/s40001-023-01223-2	4.2	17.0	All OA; Gold	2.0	2.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1036	2021	33799285	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Predominant cognitive phenotypes in multiple sclerosis: Insights from patient-centered outcomes.	10.1016/j.msard.2021.102919	4.0	7.0	All OA; Hybrid	15.0	15.0	2.97	5.38	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1037	2022	35080463	2165-0497	2165-0497	Microbiol Spectr	Microbiology spectrum	Combined Host- and Pathogen-Directed Therapy for the Control of Mycobacterium abscessus Infection.	10.1128/spectrum.02546-21	3.7	3.0	All OA; Gold	13.0	13.0	2.43	5.21	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1043	2023	36441342	1590-3478	1590-1874	Neurol Sci	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	The economic impact of comorbidity in multiple sclerosis.	10.1007/s10072-022-06517-7	3.3	0.0	All OA; Hybrid	1.0	1.0	no_dimension_relative_citations_found	0.87	3 Good Health and Well Being	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1044	2023	37921967	1573-3688	1053-0487	J Occup Rehabil	Journal of occupational rehabilitation	Work Difficulties in People with Multiple Sclerosis.	10.1007/s10926-023-10149-9	3.134	0.0	All OA; Hybrid	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1045	2022	34817728	1590-3478	1590-1874	Neurol Sci	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	Prevalence of multiple sclerosis in Liguria region, Italy: an estimate using the capture-recapture method.	10.1007/s10072-021-05718-w	3.3	1.0	All OA; Hybrid	1.0	1.0	no_dimension_relative_citations_found	0.43	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1059	2022	35325059	1460-2156	0006-8950	Brain	Brain : a journal of neurology	Progression is independent of relapse activity in early multiple sclerosis: a real-life cohort study.	10.1093/brain/awac111	14.5	30.0	All OA; Bronze	45.0	45.0	7.54	38.95	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy
+1060	2022	35877104	2168-6157	2168-6149	JAMA Neurol	JAMA neurology	Disease-Modifying Treatments and Time to Loss of Ambulatory Function in Patients With Primary Progressive Multiple Sclerosis.	10.1001/jamaneurol.2022.1929	29.0	65.0	All OA; Green	4.0	4.0	0.85	3.46	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	no country
+1064	2021	33305546	1973-9095	1973-9087	Eur J Phys Rehabil Med	European journal of physical and rehabilitation medicine	MAM-36 and ABILHAND as outcome measures of multiple sclerosis hand disability: an observational study.	10.23736/s1973-9087.20.06446-1	4.5	7.0	Closed	4.0	3.0	0.52	1.73	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1066	2022	34799405	1468-330X	0022-3050	J Neurol Neurosurg Psychiatry	Journal of neurology, neurosurgery, and psychiatry	In vivo detection of damage in multiple sclerosis cortex and cortical lesions using NODDI.	10.1136/jnnp-2021-327803	11.0	17.0	Closed	14.0	13.0	3.2	5.96	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1067	2023	36201016	1432-1459	0340-5354	J Neurol	Journal of neurology	NODDI, diffusion tensor microstructural abnormalities and atrophy of brain white matter and gray matter contribute to cognitive impairment in multiple sclerosis.	10.1007/s00415-022-11415-1	6.0	5.0	Closed	13.0	13.0	3.02	9.14	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1070	2021	33216223	1432-1459	0340-5354	J Neurol	Journal of neurology	COVID-19 in cladribine-treated relapsing-remitting multiple sclerosis patients: a monocentric experience.	10.1007/s00415-020-10309-4	6.0	12.0	All OA; Bronze	17.0	7.0	1.49	5.13	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1072	2021	33556248	1545-3278	0732-0582	Annu Rev Immunol	Annual review of immunology	Microglia and Central Nervous System-Associated Macrophages-From Origin to Disease Modulation.	10.1146/annurev-immunol-093019-110159	29.7	28.0	All OA; Green	249.0	219.0	19.0	59.39	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Germany	Japan	USA
+1083	2021	34004141	1097-4180	1074-7613	Immunity	Immunity	Signals of pseudo-starvation unveil the amino acid transporter SLC7A11 as key determinant in the control of Treg cell proliferative potential.	10.1016/j.immuni.2021.04.014	32.4	23.0	All OA; Hybrid	42.0	39.0	2.68	10.02	no_dimension_sustainable_found	4.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Finland	Italy
+1089	2021	32447551	1432-1459	0340-5354	J Neurol	Journal of neurology	Exergames for balance dysfunction in neurological disability: a meta-analysis with meta-regression.	10.1007/s00415-020-09918-w	6.0	1.0	Closed	27.0	23.0	3.54	8.15	no_dimension_sustainable_found	4.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1091	2022	34533590	1432-1459	0340-5354	J Neurol	Journal of neurology	Increased risk of death from COVID-19 in multiple sclerosis: a pooled analysis of observational studies.	10.1007/s00415-021-10803-3	6.0	14.0	All OA; Bronze	24.0	21.0	4.51	12.25	no_dimension_sustainable_found	3.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1092	2022	34984514	1432-1459	0340-5354	J Neurol	Journal of neurology	Determinants of COVID-19-related lethality in multiple sclerosis: a meta-regression of observational studies.	10.1007/s00415-021-10951-6	6.0	17.0	All OA; Bronze	22.0	22.0	3.46	19.04	3 Good Health and Well Being	3.0	Y	Y	covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy
+1093	2021	34278056	2467-981X	2467-981X	Clin Neurophysiol Pract	Clinical neurophysiology practice	Spasticity, spastic dystonia, and static stretch reflex in hypertonic muscles of patients with multiple sclerosis.	10.1016/j.cnp.2021.05.002	no_if_found	14.0	All OA; Gold	10.0	10.0	1.91	3.59	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1096	2021	34344829	1091-6490	0027-8424	Proc Natl Acad Sci U S A	Proceedings of the National Academy of Sciences of the United States of America	TrbK controls astrocyte-driven oligodendrocyte copper poisoning.	10.1073/pnas.2110998118	11.1	1.0	All OA; Bronze	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+1098	2021	33807572	2073-4409	2073-4409	Cells	Cells	Oligodendrocyte Dysfunction in Amyotrophic Lateral Sclerosis: Mechanisms and Therapeutic Perspectives.	10.3390/cells10030565	6.0	12.0	All OA; Gold	45.0	37.0	3.83	16.15	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1102	2021	35052731	2227-9059	2227-9059	Biomedicines	Biomedicines	Inducible T-Cell Costimulator Ligand Plays a Dual Role in Melanoma Metastasis upon Binding to Osteopontin or Inducible T-Cell Costimulator.	10.3390/biomedicines10010051	4.7	0.0	All OA; Gold	9.0	9.0	0.61	2.61	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1103	2022	35811660	1875-8630	0278-0240	Dis Markers	Disease markers	Worse Disease Prognosis Is Associated to an Increase of Platelet-Derived Extracellular Vesicles in Hospitalized SARS-CoV-2 Patients.	10.1155/2022/8074655	3.464	0.0	All OA; Gold	6.0	6.0	0.81	5.19	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1105	2022	36314682	1460-2075	0261-4189	EMBO J	The EMBO journal	Maternal immune activation leads to defective brain-blood vessels and intracerebral hemorrhages in male offspring.	10.15252/embj.2022111192	11.4	11.0	All OA; Hybrid	1.0	1.0	0.41	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1106	2022	33998773	1742-4658	1742-464X	FEBS J	The FEBS journal	Neurological consequences of neurovascular unit and brain vasculature damages: potential risks for pregnancy infections and COVID-19-babies.	10.1111/febs.16020	5.4	4.0	All OA; Bronze	7.0	6.0	1.11	1.54	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1127	2022	34874913	1558-8238	0021-9738	J Clin Invest	The Journal of clinical investigation	JAB1 deletion in oligodendrocytes causes senescence-induced inflammation and neurodegeneration in mice.	10.1172/jci145071	15.9	12.0	All OA; Gold	13.0	12.0	1.48	5.08	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	UK	Italy
+1128	2021	33675110	1474-9726	1474-9718	Aging Cell	Aging cell	Functional genomic analyses highlight a shift in Gpr17-regulated cellular processes in oligodendrocyte progenitor cells and underlying myelin dysregulation in the aged mouse cerebrum.	10.1111/acel.13335	7.8	125.0	All OA; Gold	39.0	31.0	3.44	8.39	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	UK	Italy
+1133	2021	34391817	1090-2139	0889-1591	Brain Behav Immun	Brain, behavior, and immunity	Exercise protects from hippocampal inflammation and neurodegeneration in experimental autoimmune encephalomyelitis.	10.1016/j.bbi.2021.08.212	15.1	3.0	All OA; Hybrid	23.0	22.0	2.34	8.6	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1134	2023	37580305	1747-0927	1747-0919	Soc Neurosci	Social neuroscience	Social cognition in hyperkinetic movement disorders: a systematic review.	10.1080/17470919.2023.2248687	2.0	3.0	Closed	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Canada
+1135	2021	34021055	2332-7812	2332-7812	Neurol Neuroimmunol Neuroinflamm	Neurology(R) neuroimmunology & neuroinflammation	Network Damage Predicts Clinical Worsening in Multiple Sclerosis: A 6.4-Year Study.	10.1212/nxi.0000000000001006	8.8	48.0	All OA; Gold	17.0	16.0	2.18	8.68	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy
+1136	2021	33109920	1536-0210	0020-9996	Invest Radiol	Investigative radiology	Deep Learning on Conventional Magnetic Resonance Imaging Improves the Diagnosis of Multiple Sclerosis Mimics.	10.1097/rli.0000000000000735	6.7	5.0	Closed	23.0	21.0	2.51	8.19	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	no country
+1153	2022	35733059	1573-4978	0301-4851	Mol Biol Rep	Molecular biology reports	A rapid and inexpensive genotyping method using dried blood spots for mutational analysis in a mutant mouse model: an update.	10.1007/s11033-022-07649-x	2.8	2.0	Closed	1.0	1.0	0.5	0.53	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1155	2023	36933030	1432-1459	0340-5354	J Neurol	Journal of neurology	Abnormal thalamic functional connectivity correlates with cardiorespiratory fitness and physical activity in progressive multiple sclerosis.	10.1007/s00415-023-11664-8	6.0	3.0	Closed	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark	no country
+1158	2021	33486403	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Living with severe multiple sclerosis: Cost-effectiveness of a palliative care intervention and cost of illness study.	10.1016/j.msard.2021.102756	4.0	10.0	All OA; Green	4.0	4.0	no_dimension_relative_citations_found	1.44	3 Good Health and Well Being	4.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+1162	2022	35305295	1932-7420	1550-4131	Cell Metab	Cell metabolism	Ejection of damaged mitochondria and their removal by macrophages ensure efficient thermogenesis in brown adipose tissue.	10.1016/j.cmet.2022.02.016	29.0	109.0	All OA; Hybrid	100.0	100.0	14.65	39.07	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	Netherlands	Spain	UK	Denmark
+1164	2022	35874810	2296-634X	2296-634X	Front Cell Dev Biol	Frontiers in cell and developmental biology	Stromal and Immune Cell Dynamics in Tumor Associated Tertiary Lymphoid Structures and Anti-Tumor Immune Responses.	10.3389/fcell.2022.933113	5.5	4.0	All OA; Gold	4.0	4.0	0.41	2.04	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1174	2023	37143680	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Alpha4 beta7 integrin controls Th17 cell trafficking in the spinal cord leptomeninges during experimental autoimmune encephalomyelitis.	10.3389/fimmu.2023.1071553	7.3	7.0	All OA; Gold	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1175	2021	33679799	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Common Peripheral Immunity Mechanisms in Multiple Sclerosis and Alzheimer's Disease.	10.3389/fimmu.2021.639369	7.3	12.0	All OA; Gold	39.0	34.0	3.96	9.3	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	altre_malattie	Y	Italy
+1186	2022	35634316	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Human Conventional and Plasmacytoid Dendritic Cells Differ in Their Ability to Respond to <i>Saccharomyces cerevisiae</i>.	10.3389/fimmu.2022.850404	7.3	1.0	All OA; Gold	2.0	2.0	0.3	0.85	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1193	2022	34595972	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Cardiorespiratory fitness and free-living physical activity are not associated with cognition in persons with progressive multiple sclerosis: Baseline analyses from the CogEx study.	10.1177/13524585211048397	5.8	57.0	All OA; Green	11.0	11.0	3.84	5.62	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark
+1196	2021	34292315	1540-9538	0022-1007	J Exp Med	The Journal of experimental medicine	Functional immune cell-astrocyte interactions.	10.1084/jem.20202715	15.3	51.0	All OA; Hybrid	53.0	52.0	4.66	12.64	3 Good Health and Well Being	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA
+1197	2021	33408417	1476-4687	0028-0836	Nature	Nature	Gut-licensed IFNγ<sup>+</sup> NK cells drive LAMP1<sup>+</sup>TRAIL<sup>+</sup> anti-inflammatory astrocytes.	10.1038/s41586-020-03116-4	64.8	276.0	All OA; Green	182.0	139.0	14.36	39.18	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Switzerland	USA	Canada
+1199	2023	37047690	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	1,25(OH)<sub>2</sub>D3 Differently Modulates the Secretory Activity of IFN-DC and IL4-DC: A Study in Cells from Healthy Donors and MS Patients.	10.3390/ijms24076717	5.6	2.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1200	2022	36034148	1663-4365	1663-4365	Front Aging Neurosci	Frontiers in aging neuroscience	The role of neutrophils in the dysfunction of central nervous system barriers.	10.3389/fnagi.2022.965169	4.8	12.0	All OA; Gold	15.0	15.0	1.79	8.72	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1204	2021	34201693	2227-9059	2227-9059	Biomedicines	Biomedicines	Human Monocytes Plasticity in Neurodegeneration.	10.3390/biomedicines9070717	4.7	12.0	All OA; Gold	6.0	4.0	0.52	1.29	no_dimension_sustainable_found	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1209	2022	35563859	2073-4409	2073-4409	Cells	Cells	miR-150-5p and let-7b-5p in Blood Myeloid Extracellular Vesicles Track Cognitive Symptoms in Patients with Multiple Sclerosis.	10.3390/cells11091551	6.0	10.0	All OA; Gold	10.0	10.0	0.95	no_dimension_field_citations_found	no_dimension_sustainable_found	3.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	USA	Netherlands
+1210	2022	36086905	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	Signs and symptoms of COVID-19 in patients with multiple sclerosis.	10.1111/ene.15554	5.1	1.0	All OA; Green	4.0	4.0	0.48	3.46	3 Good Health and Well Being	4.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1211	2022	35735030	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Breakthrough SARS-CoV-2 infections in MS patients on disease-modifying therapies.	10.1177/13524585221102918	5.8	17.0	All OA; Green	34.0	34.0	3.82	29.43	3 Good Health and Well Being	4.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1212	2023	36603292	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	CD19+ B cell values predict the increase of anti-SARS CoV2 antibodies in fingolimod-treated and COVID-19-vaccinated patients with multiple sclerosis.	10.1016/j.msard.2022.104494	4.0	7.0	All OA; Green	5.0	5.0	2.89	4.33	3 Good Health and Well Being	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1213	2023	37154406	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	Antibody response elicited by the SARS-CoV-2 vaccine booster in patients with multiple sclerosis: Who gains from it?	10.1111/ene.15830	5.1	9.0	All OA; Hybrid	5.0	5.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1215	2021	34183837	1546-170X	1078-8956	Nat Med	Nature medicine	Self-tunable engineered yeast probiotics for the treatment of inflammatory bowel disease.	10.1038/s41591-021-01390-x	82.9	292.0	Closed	128.0	112.0	8.6	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA	Canada	Brazil
+1229	2022	35068175	1744-8042	1462-2416	Pharmacogenomics	Pharmacogenomics	Transcriptional effects of fingolimod treatment on peripheral T cells in relapsing remitting multiple sclerosis patients.	10.2217/pgs-2021-0118	2.1	1.0	Closed	1.0	1.0	0.19	0.43	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1230	2021	34181235	1559-1182	0893-7648	Mol Neurobiol	Molecular neurobiology	Transcriptomic Analysis of Peripheral Monocytes upon Fingolimod Treatment in Relapsing Remitting Multiple Sclerosis Patients.	10.1007/s12035-021-02465-z	5.1	10.0	Closed	8.0	6.0	0.74	1.91	no_dimension_sustainable_found	3.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1233	2021	33566725	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	<i>PRF1</i> mutation alters immune system activation, inflammation, and risk of autoimmunity.	10.1177/1352458520963937	5.8	10.0	All OA; Green	13.0	10.0	1.19	2.52	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Switzerland	UK	Italy	USA
+1234	2023	36171104	1468-330X	0022-3050	J Neurol Neurosurg Psychiatry	Journal of neurology, neurosurgery, and psychiatry	Heterogeneity on long-term disability trajectories in patients with secondary progressive MS: a latent class analysis from Big MS Data network.	10.1136/jnnp-2022-329987	11.0	26.0	Closed	8.0	8.0	3.53	6.93	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy	Canada	Turkey	Lebanon	Australia	Sweden	Netherlands	Tunisia	Switzerland	Czech Republic	Spain	Belgium	Portugal	France	Denmark	Kuwait	no country
+1235	2022	35604761	2561-326X	2561-326X	JMIR Form Res	JMIR formative research	Key Drivers and Facilitators of the Choice to Use mHealth Technology in People With Neurological Conditions: Observational Study.	10.2196/29509	no_if_found	7.0	All OA; Gold	2.0	2.0	1.04	no_dimension_field_citations_found	3 Good Health and Well Being	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Czech Republic	UK
+1236	2022	34535949	1878-0261	1574-7891	Mol Oncol	Molecular oncology	PD-1-induced T cell exhaustion is controlled by a Drp1-dependent mechanism.	10.1002/1878-0261.13103	6.6	2.0	All OA; Gold	18.0	18.0	1.89	5.21	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1238	2021	34795677	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	HIV-1 Env Does Not Enable the Development of Protective Broadly Neutralizing Antibodies in an Experimental Autoimmune Encephalomyelitis Mouse Model.	10.3389/fimmu.2021.771359	7.3	1.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	0.0	3 Good Health and Well Being	1.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Italy
+1241	2021	34307372	2296-634X	2296-634X	Front Cell Dev Biol	Frontiers in cell and developmental biology	Stem Cell Therapies for Progressive Multiple Sclerosis.	10.3389/fcell.2021.696434	5.5	15.0	All OA; Gold	25.0	24.0	2.11	5.77	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK
+1257	2023	36086993	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	Correlation between patient-reported manual ability and three objective measures of upper limb function in people with multiple sclerosis.	10.1111/ene.15560	5.1	1.0	All OA; Green	3.0	3.0	no_dimension_relative_citations_found	2.11	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1263	2021	33480077	1531-8249	0364-5134	Ann Neurol	Annals of neurology	Disease-Modifying Therapies and Coronavirus Disease 2019 Severity in Multiple Sclerosis.	10.1002/ana.26028	11.2	114.0	All OA; Hybrid	381.0	226.0	34.01	194.48	3 Good Health and Well Being	3.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+1264	2021	34563483	2352-3964	2352-3964	EBioMedicine	EBioMedicine	Effect of SARS-CoV-2 mRNA vaccination in MS patients treated with disease modifying therapies.	10.1016/j.ebiom.2021.103581	11.1	26.0	All OA; Gold	196.0	171.0	14.3	46.75	3 Good Health and Well Being	1.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1266	2022	34753829	2332-7812	2332-7812	Neurol Neuroimmunol Neuroinflamm	Neurology(R) neuroimmunology & neuroinflammation	COVID-19 Severity in Multiple Sclerosis: Putting Data Into Context.	10.1212/nxi.0000000000001105	8.8	22.0	All OA; Gold	63.0	60.0	4.34	32.16	no_dimension_sustainable_found	4.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1267	2022	35526306	2352-3964	2352-3964	EBioMedicine	EBioMedicine	Breakthrough SARS-CoV-2 infections after COVID-19 mRNA vaccination in MS patients on disease modifying therapies during the Delta and the Omicron waves in Italy.	10.1016/j.ebiom.2022.104042	11.1	26.0	All OA; Gold	59.0	59.0	6.33	51.07	3 Good Health and Well Being	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1268	2022	34328824	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	SARS-CoV-2 serology after COVID-19 in multiple sclerosis: An international cohort study.	10.1177/13524585211035318	5.8	32.0	All OA; Bronze	43.0	26.0	4.45	21.95	3 Good Health and Well Being	2.0	Y	Y	covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Turkey	Italy	Brazil	no country
+1272	2022	35545683	1432-1459	0340-5354	J Neurol	Journal of neurology	A multi-step genomic approach prioritized TBKBP1 gene as relevant for multiple sclerosis susceptibility.	10.1007/s00415-022-11109-8	6.0	1.0	All OA; Hybrid	2.0	2.0	0.18	1.41	no_dimension_sustainable_found	5.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1277	2023	36672686	2227-9059	2227-9059	Biomedicines	Biomedicines	Osteopontin Is Associated with Multiple Sclerosis Relapses.	10.3390/biomedicines11010178	4.7	0.0	All OA; Gold	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1284	2022	35034754	0072-9752	0072-9752	Handb Clin Neurol	Handbook of clinical neurology	Multiple sclerosis: Inflammation, autoimmunity and plasticity.	10.1016/b978-0-12-819410-2.00024-2	no_if_found	1.0	Closed	11.0	11.0	1.9	6.39	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1291	2022	35795217	2296-2646	2296-2646	Front Chem	Frontiers in chemistry	Role of Helical Structure in MBP Immunodominant Peptides for Efficient IgM Antibody Recognition in Multiple Sclerosis.	10.3389/fchem.2022.885180	5.5	4.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Poland	Italy	Israel
+1293	2022	35093968	1536-0210	0020-9996	Invest Radiol	Investigative radiology	A Deep Learning Approach to Predicting Disease Progression in Multiple Sclerosis Using Magnetic Resonance Imaging.	10.1097/rli.0000000000000854	6.7	3.0	Closed	21.0	21.0	2.66	18.18	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy	no country
+1294	2022	35397753	1432-1459	0340-5354	J Neurol	Journal of neurology	Advanced diffusion-weighted imaging models better characterize white matter neurodegeneration and clinical outcomes in multiple sclerosis.	10.1007/s00415-022-11104-z	6.0	12.0	Closed	5.0	5.0	1.2	4.33	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1295	2023	38050001	1936-959X	0195-6108	AJNR Am J Neuroradiol	AJNR. American journal of neuroradiology	Quantification of Thalamic Atrophy in MS: From the Multicenter Italian Neuroimaging Network Initiative Data Set to Clinical Application.	10.3174/ajnr.a8050	3.5	3.0	Closed	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+1296	2023	36661195	1522-2586	1053-1807	J Magn Reson Imaging	Journal of magnetic resonance imaging : JMRI	Methods for Brain Atrophy MR Quantification in Multiple Sclerosis: Application to the Multicenter INNI Dataset.	10.1002/jmri.28616	4.4	2.0	All OA; Hybrid	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+1297	2021	32662738	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Measurement of white matter fiber-bundle cross-section in multiple sclerosis using diffusion-weighted imaging.	10.1177/1352458520938999	5.8	13.0	Closed	16.0	9.0	1.74	5.7	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1301	2023	36207582	1432-0428	0012-186X	Diabetologia	Diabetologia	Autoantibody and T cell responses to oxidative post-translationally modified insulin neoantigenic peptides in type 1 diabetes.	10.1007/s00125-022-05812-4	8.2	10.0	All OA; Hybrid	8.0	8.0	3.43	3.42	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Sweden	UK	Italy	USA
+1309	2023	37159294	1936-1238	1936-122X	Annu Rev Biophys	Annual review of biophysics	Mitochondrial Ion Channels.	10.1146/annurev-biophys-092622-094853	12.4	20.0	All OA; Hybrid	11.0	11.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Poland	Italy
+1320	2023	36908712	1662-5161	1662-5161	Front Hum Neurosci	Frontiers in human neuroscience	Cognitive rehabilitation in multiple sclerosis: Three digital ingredients to address current and future priorities.	10.3389/fnhum.2023.1130231	2.9	1.0	All OA; Gold	1.0	1.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	3 Good Health and Well Being	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1323	2023	36835128	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Impairment of Endogenous Synthesis of Omega-3 DHA Exacerbates T-Cell Inflammatory Responses.	10.3390/ijms24043717	5.6	6.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Sweden
+1330	2022	35328795	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	CD8<sup>+</sup> T Cell Senescence: Lights and Shadows in Viral Infections, Autoimmune Disorders and Cancer.	10.3390/ijms23063374	5.6	3.0	All OA; Gold	27.0	27.0	3.87	10.16	3 Good Health and Well Being	1.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1334	2022	35078125	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	High or increasing serum NfL is predictive of impending multiple sclerosis relapses.	10.1016/j.msard.2022.103535	4.0	7.0	All OA; Hybrid	20.0	20.0	4.22	17.31	no_dimension_sustainable_found	3.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Canada
+1335	2022	34850641	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Charting a global research strategy for progressive MS-An international progressive MS Alliance proposal.	10.1177/13524585211059766	5.8	26.0	All OA; Hybrid	6.0	6.0	0.85	3.06	no_dimension_sustainable_found	5.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Germany	Italy	Canada	Australia	Ireland	USA	Spain	UK	France	Denmark
+1336	2023	38155863	1662-5102	1662-5102	Front Cell Neurosci	Frontiers in cellular neuroscience	Peripherally derived myeloid cells induce disease-dependent phenotypic changes in microglia.	10.3389/fncel.2023.1295840	5.3	0.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	USA	Denmark
+1343	2022	35298059	1468-1331	1351-5101	Eur J Neurol	European journal of neurology	Relation of sensorimotor and cognitive cerebellum functional connectivity with brain structural damage in patients with multiple sclerosis and no disability.	10.1111/ene.15329	5.1	0.0	All OA; Hybrid	5.0	5.0	1.69	3.52	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	no country
+1344	2021	33970338	1432-1459	0340-5354	J Neurol	Journal of neurology	Machine learning classifier to identify clinical and radiological features relevant to disability progression in multiple sclerosis.	10.1007/s00415-021-10605-7	6.0	16.0	All OA; Hybrid	20.0	19.0	2.88	10.21	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1347	2021	34441245	2075-4418	2075-4418	Diagnostics (Basel)	Diagnostics (Basel, Switzerland)	Walk Your Talk: Real-World Adherence to Guidelines on the Use of MRI in Multiple Sclerosis.	10.3390/diagnostics11081310	3.6	4.0	All OA; Gold	2.0	2.0	0.29	1.02	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1348	2021	34625925	2193-8253	2193-6536	Neurol Ther	Neurology and therapy	Multiple Sclerosis, COVID-19 and Vaccines: Making the Point.	10.1007/s40120-021-00288-7	no_if_found	11.0	All OA; Gold	9.0	9.0	0.64	4.59	3 Good Health and Well Being	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1351	2023	36493716	1878-5905	0142-9612	Biomaterials	Biomaterials	Liposome-based nanoparticles impact on regulatory and effector phenotypes of macrophages and T cells in multiple Sclerosis patients.	10.1016/j.biomaterials.2022.121930	14.0	1.0	Closed	4.0	4.0	no_dimension_relative_citations_found	1.71	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1352	2022	35128357	2589-0042	2589-0042	iScience	iScience	A TLR/CD44 axis regulates T cell trafficking in experimental and human multiple sclerosis.	10.1016/j.isci.2022.103763	5.8	1.0	All OA; Gold	12.0	12.0	1.94	5.13	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1353	2023	37050456	1424-8220	1424-8220	Sensors (Basel)	Sensors (Basel, Switzerland)	Mobile App Interventions for Parkinson's Disease, Multiple Sclerosis and Stroke: A Systematic Literature Review.	10.3390/s23073396	3.9	5.0	All OA; Gold	5.0	5.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	4 Quality Education	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	altre_malattie	Y	Italy	Cyprus	Romania	Spain	UK	Greece
+1358	2022	36238305	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Editorial: Insights in T Cell Biology: 2021.	10.3389/fimmu.2022.1039602	7.3	1.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	0.0	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1359	2023	36769247	1422-0067	1422-0067	Int J Mol Sci	International journal of molecular sciences	Extracellular Vesicles from Mesenchymal Stem Cells: Towards Novel Therapeutic Strategies for Neurodegenerative Diseases.	10.3390/ijms24032917	5.6	7.0	All OA; Gold	10.0	10.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1361	2023	37239135	2227-9059	2227-9059	Biomedicines	Biomedicines	Neurophysiological Markers of Premotor-Motor Network Plasticity Predict Motor Performance in Young and Older Adults.	10.3390/biomedicines11051464	4.7	2.0	All OA; Gold	14.0	14.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1362	2021	34545250	1529-2916	1529-2908	Nat Immunol	Nature immunology	Repositioning T<sub>H</sub> cell polarization from single cytokines to complex help.	10.1038/s41590-021-01009-w	30.5	54.0	All OA; Bronze	98.0	93.0	6.66	23.37	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy	Singapore	USA	Switzerland	France
+1364	2021	34687636	1474-4465	1474-4422	Lancet Neurol	The Lancet. Neurology	Safety, tolerability, and activity of mesenchymal stem cells versus placebo in multiple sclerosis (MESEMS): a phase 2, randomised, double-blind crossover trial.	10.1016/s1474-4422(21)00301-x	48.0	74.0	Closed	46.0	45.0	4.67	10.61	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Canada	Sweden	Iran	Switzerland	Spain	UK	France	Denmark	Austria	no country
+1378	2022	36126541	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	sNFL applicability as additional monitoring tool in natalizumab extended interval dosing regimen for RRMS patients.	10.1016/j.msard.2022.104176	4.0	10.0	Closed	1.0	1.0	0.27	0.87	no_dimension_sustainable_found	2.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1380	2023	37481820	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Serum Neurofilaments are a reliable biomarker to early detect PML in Multiple Sclerosis patients.	10.1016/j.msard.2023.104893	4.0	0.0	Closed	3.0	3.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1381	2021	34182224	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Serum neurofilament light chain levels in healthy individuals: A proposal of cut-off values for use in multiple sclerosis clinical practice.	10.1016/j.msard.2021.103090	4.0	12.0	Closed	13.0	13.0	1.3	6.64	no_dimension_sustainable_found	1.0	Y	Y	no_covid	prevenzione_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1384	2023	36848960	1879-0542	0165-2478	Immunol Lett	Immunology letters	Musculin does not modulate the disease course of Experimental Autoimmune Encephalomyelitis and DSS colitis.	10.1016/j.imlet.2023.02.006	4.4	1.0	All OA; Hybrid	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1385	2023	35998249	1548-9221	1548-9221	Physiology (Bethesda)	Physiology (Bethesda, Md.)	Kv1.3 K<sup>+</sup> Channel Physiology Assessed by Genetic and Pharmacological Modulation.	10.1152/physiol.00010.2022	8.4	3.0	Closed	8.0	8.0	3.51	5.34	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1387	2021	34500177	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Associations between clinical characteristics and dual task performance in Multiple Sclerosis depend on the cognitive and motor dual tasks used.	10.1016/j.msard.2021.103230	4.0	1.0	Closed	5.0	5.0	0.67	1.79	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	USA	Israel	Finland	Belgium
+1389	2021	33565906	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Differential effects and discriminative validity of motor and cognitive tasks varying in difficulty on cognitive-motor interference in persons with multiple sclerosis.	10.1177/1352458520986960	5.8	14.0	Closed	8.0	7.0	1.59	3.26	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy	USA	Israel	Finland	Belgium
+1390	2023	36881147	1432-1459	0340-5354	J Neurol	Journal of neurology	Profiling cognitive-motor interference in a large sample of persons with progressive multiple sclerosis and impaired processing speed: results from the CogEx study.	10.1007/s00415-023-11636-y	6.0	2.0	All OA; Green	2.0	2.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Italy	Canada	USA	UK	Belgium	Denmark	no country
+1391	2022	36222464	1538-6724	0031-9023	Phys Ther	Physical therapy	Isokinetic Resistance Training for Ankle Plantarflexor Spasticity and Muscle Weakness in People With Multiple Sclerosis: A Proof-of-Concept Case Series.	10.1093/ptj/pzac146	3.679	2.0	Closed	0.0	0.0	no_dimension_relative_citations_found	0.0	no_dimension_sustainable_found	1.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Israel	Italy
+1392	2023	36853233	1557-0584	1557-0576	J Neurol Phys Ther	Journal of neurologic physical therapy : JNPT	A Thematic Survey on the Reporting Quality of Randomized Controlled Trials in Rehabilitation: The Case of Multiple Sclerosis.	10.1097/npt.0000000000000437	3.8	0.0	All OA; Hybrid	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Israel	Spain	Italy	no country
+1393	2023	37371474	2218-273X	2218-273X	Biomolecules	Biomolecules	Pharmacological Characterization of P626, a Novel Dual Adenosine A<sub>2A</sub>/A<sub>2B</sub> Receptor Antagonist, on Synaptic Plasticity and during an Ischemic-like Insult in CA1 Rat Hippocampus.	10.3390/biom13060894	5.5	0.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1403	2021	33381863	1098-1136	0894-1491	Glia	Glia	Mesenchymal stem cells instruct a beneficial phenotype in reactive astrocytes.	10.1002/glia.23958	6.2	7.0	Closed	9.0	7.0	0.72	1.74	no_dimension_sustainable_found	2.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1407	2023	38074343	2055-2076	2055-2076	Digit Health	Digital health	Telerehabilitation for Lee Silverman Voice Treatment (Tele-LSVT)-Loud on voice intensity and voice use in daily living in people with multiple sclerosis: A protocol for a feasibility and pilot randomized controlled study.	10.1177/20552076231218150	3.9	0.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy
+1408	2023	36399281	1573-3688	1053-0487	J Occup Rehabil	Journal of occupational rehabilitation	Work Barriers and Job Adjustments of People with Multiple Sclerosis: A Systematic Review.	10.1007/s10926-022-10084-1	3.134	0.0	Closed	5.0	5.0	no_dimension_relative_citations_found	4.47	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1409	2022	35954811	1660-4601	1660-4601	Int J Environ Res Public Health	International journal of environmental research and public health	Stigma, Discrimination and Disclosure of the Diagnosis of Multiple Sclerosis in the Workplace: A Systematic Review.	10.3390/ijerph19159452	4.614	13.0	All OA; Gold	3.0	3.0	1.4	2.68	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1410	2022	35777874	2044-6055	2044-6055	BMJ Open	BMJ open	Occupational outcomes of people with multiple sclerosis: a scoping review.	10.1136/bmjopen-2021-058948	2.9	1.0	All OA; Gold	19.0	19.0	6.52	23.83	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Italy
+1421	2022	35644426	1090-2430	0014-4886	Exp Neurol	Experimental neurology	Soluble factors influencing the neural stem cell niche in brain physiology, inflammation, and aging.	10.1016/j.expneurol.2022.114124	5.3	18.0	Closed	22.0	22.0	4.04	8.63	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Spain	UK
+1424	2022	36091018	1664-3224	1664-3224	Front Immunol	Frontiers in immunology	Bioinformatics analysis identified apolipoprotein E as a hub gene regulating neuroinflammation in macrophages and microglia following spinal cord injury.	10.3389/fimmu.2022.964138	7.3	10.0	All OA; Gold	7.0	7.0	1.03	4.07	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	UK	China
+1425	2023	36715247	1097-0193	1065-9471	Hum Brain Mapp	Human brain mapping	Discovering functional connectivity features characterizing multiple sclerosis phenotypes using explainable artificial intelligence.	10.1002/hbm.26210	4.8	0.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	Y	no_covid	no_primaria	no_secondaria	prevenzione_terziaria	no_altre	Y	Finland	Italy
+1427	2023	37880963	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	How do we move exercise studies forward in MS?	10.1177/13524585231204461	5.8	4.0	All OA; Bronze	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+1428	2021	33720795	1477-0970	1352-4585	Mult Scler	Multiple sclerosis (Houndmills, Basingstoke, England)	Prioritizing progressive MS rehabilitation research: A call from the International Progressive MS Alliance.	10.1177/1352458521999970	5.8	74.0	All OA; Hybrid	14.0	9.0	1.35	5.71	no_dimension_sustainable_found	3.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	prevenzione_terziaria	no_altre	Y	Germany	Italy	Canada	Australia	USA	Switzerland	Spain	UK	Belgium	Denmark
+1429	2022	35032879	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	Real world comparison of teriflunomide and dimethyl fumarate in naïve relapsing multiple sclerosis patients: Evidence from the Italian MS register.	10.1016/j.msard.2022.103489	4.0	2.0	Closed	2.0	2.0	0.56	1.73	3 Good Health and Well Being	3.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA	no country
+1434	2022	35530174	2055-2173	2055-2173	Mult Scler J Exp Transl Clin	Multiple sclerosis journal - experimental, translational and clinical	Researching COVID-19 in progressive MS requires a globally coordinated, multi-disciplinary and multi-stakeholder approach-perspectives from the International Progressive MS Alliance.	10.1177/20552173221099181	no_if_found	7.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	0.0	3 Good Health and Well Being	4.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Canada	Switzerland	Italy	USA
+1436	2022	35177080	1478-4505	1478-4505	Health Res Policy Syst	Health research policy and systems	The MULTI-ACT model: the path forward for participatory and anticipatory governance in health research and care.	10.1186/s12961-022-00825-2	4.139	14.0	All OA; Gold	11.0	11.0	2.61	9.84	no_dimension_sustainable_found	2.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Spain	Italy	Belgium
+1438	2023	38129935	2056-7529	2056-7529	Res Involv Engagem	Research involvement and engagement	Comment on "Reflections on patient engagement by patient partners: How it can go wrong".	10.1186/s40900-023-00534-2	no_if_found	10.0	All OA; Gold	0.0	0.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	Belgium
+1440	2022	35367873	2211-0356	2211-0348	Mult Scler Relat Disord	Multiple sclerosis and related disorders	The agenda of the global patient reported outcomes for multiple sclerosis (PROMS) initiative: Progresses and open questions.	10.1016/j.msard.2022.103757	4.0	5.0	All OA; Green	12.0	12.0	4.92	6.97	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	prevenzione_secondaria	no_terziaria	no_altre	Y	Germany	Italy	Canada	Australia	USA	Netherlands	Switzerland	Czech Republic	UK	Belgium	Spain	South Africa	France	Austria	no country
+1445	2022	35253269	1531-8249	0364-5134	Ann Neurol	Annals of neurology	Spinal Cord Atrophy Is a Preclinical Marker of Progressive MS.	10.1002/ana.26341	11.2	0.0	Closed	0.0	0.0	no_dimension_relative_citations_found	0.0	no_dimension_sustainable_found	3.0	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Italy	USA
+1446	2023	37163992	1097-4180	1074-7613	Immunity	Immunity	Cytokines as emerging regulators of central nervous system synapses.	10.1016/j.immuni.2023.04.011	32.4	58.0	All OA; Bronze	24.0	24.0	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	N	Germany	USA
+1448	2021	34353742	1673-8527	1673-8527	J Genet Genomics	Journal of genetics and genomics = Yi chuan xue bao	Genomic and functional evaluation of TNFSF14 in multiple sclerosis susceptibility.	10.1016/j.jgg.2021.03.017	no_if_found	8.0	Closed	3.0	3.0	0.34	0.9	no_dimension_sustainable_found	4.0	Y	Y	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Switzerland	Italy	USA
+1449	2022	36482070	2041-1723	2041-1723	Nat Commun	Nature communications	Neural precursor cells tune striatal connectivity through the release of IGFBPL1.	10.1038/s41467-022-35341-y	16.6	no_altmetric_found	no_dimension_open_access_found	no_dimension_citations_found	no_dimension_recent_citations_found	no_dimension_relative_citations_found	no_dimension_field_citations_found	no_dimension_sustainable_found	no_cima_index_found	Y	N	no_covid	no_primaria	no_secondaria	no_terziaria	no_altre	Y	Germany	Italy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
